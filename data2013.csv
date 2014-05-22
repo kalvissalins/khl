@@ -1,0 +1,757 @@
+"","GameId","Date","HomeTeam","AwayTeam","HomeGoals","HomeShots","AwayGoals","AwayShots"
+"1",37778,"Game # 1.  4 September 2013, Wednesday, 19:30","Dynamo Moscow","Traktor Chelyabinsk",5,39,1,20
+"2",37779,"Game # 2.  5 September 2013, Thursday, 16:00","Metallurg Novokuznetsk","Sibir Novosibirsk Region",3,17,2,34
+"3",37780,"Game # 3.  5 September 2013, Thursday, 19:30","Atlant Moscow Region","Spartak Moscow",0,37,2,32
+"4",37781,"Game # 4.  5 September 2013, Thursday, 20:30","Dinamo Riga","Dinamo Minsk",2,20,1,17
+"5",37782,"Game # 5.  6 September 2013, Friday, 12:00","Amur Khabarovsk","Admiral Vladivostok",3,34,3,35
+"6",37783,"Game # 6.  6 September 2013, Friday, 16:00","Avangard Omsk Region","SKA Saint Petersburg",1,28,5,32
+"7",37784,"Game # 7.  6 September 2013, Friday, 17:00","Ugra Khanty-Mansiysk","Lokomotiv Yaroslavl",2,40,1,36
+"8",37785,"Game # 8.  6 September 2013, Friday, 17:00","Avtomobilist Yekaterinburg","Severstal Cherepovets",1,37,1,28
+"9",37786,"Game # 9. 26 February 2014, Wednesday, 19:00","Ak Bars Kazan","Neftekhimik Nizhnekamsk",7,25,3,32
+"10",37787,"Game # 10.  6 September 2013, Friday, 19:00","Torpedo Nizhny Novgorod","Salavat Yulaev Ufa",2,23,2,33
+"11",37788,"Game # 11.  6 September 2013, Friday, 19:00","Vityaz Moscow Region","Traktor Chelyabinsk",5,32,3,16
+"12",37789,"Game # 12.  6 September 2013, Friday, 19:30","Dynamo Moscow","Metallurg Magnitogorsk",3,29,1,29
+"13",37790,"Game # 13.  6 September 2013, Friday, 20:00","Donbass Donetsk","Slovan Bratislava",4,35,2,15
+"14",37791,"Game # 14.  6 September 2013, Friday, 19:30","Medvescak Zagreb","CSKA Moscow",7,30,1,28
+"15",37792,"Game # 15.  8 September 2013, Sunday, 14:00","Avangard Omsk Region","Lokomotiv Yaroslavl",5,30,2,34
+"16",37793,"Game # 16.  8 September 2013, Sunday, 15:00","Ugra Khanty-Mansiysk","Atlant Moscow Region",4,20,1,30
+"17",37794,"Game # 17.  8 September 2013, Sunday, 15:00","Avtomobilist Yekaterinburg","SKA Saint Petersburg",4,32,6,42
+"18",37795,"Game # 18.  8 September 2013, Sunday, 15:00","Barys Astana","Severstal Cherepovets",10,37,1,27
+"19",37796,"Game # 19.  8 September 2013, Sunday, 17:00","Torpedo Nizhny Novgorod","Traktor Chelyabinsk",3,28,4,13
+"20",37797,"Game # 20.  8 September 2013, Sunday, 17:00","Ak Bars Kazan","Salavat Yulaev Ufa",3,28,3,44
+"21",37798,"Game # 21.  8 September 2013, Sunday, 17:00","Vityaz Moscow Region","Metallurg Magnitogorsk",4,22,5,35
+"22",37799,"Game # 22.  8 September 2013, Sunday, 17:00","Dynamo Moscow","Neftekhimik Nizhnekamsk",4,33,0,31
+"23",37800,"Game # 23.  8 September 2013, Sunday, 17:00","Spartak Moscow","Slovan Bratislava",5,20,0,23
+"24",37801,"Game # 24.  8 September 2013, Sunday, 18:00","Dinamo Minsk","CSKA Moscow",1,21,2,29
+"25",37802,"Game # 25.  8 September 2013, Sunday, 18:00","Donbass Donetsk","Lev Prague",3,39,2,29
+"26",37803,"Game # 26.  8 September 2013, Sunday, 21:30","Medvescak Zagreb","Dinamo Riga",1,32,5,33
+"27",37804,"Game # 27.  9 September 2013, Monday, 16:00","Metallurg Novokuznetsk","Amur Khabarovsk",3,26,1,43
+"28",37805,"Game # 28.  9 September 2013, Monday, 16:00","Sibir Novosibirsk Region","Admiral Vladivostok",3,41,2,23
+"29",37806,"Game # 29. 10 September 2013, Tuesday, 16:00","Avangard Omsk Region","Severstal Cherepovets",3,41,3,38
+"30",37807,"Game # 30. 10 September 2013, Tuesday, 17:00","Ugra Khanty-Mansiysk","SKA Saint Petersburg",1,34,5,34
+"31",37808,"Game # 31. 10 September 2013, Tuesday, 17:00","Avtomobilist Yekaterinburg","Atlant Moscow Region",2,38,2,29
+"32",37809,"Game # 32. 10 September 2013, Tuesday, 17:00","Barys Astana","Lokomotiv Yaroslavl",5,35,3,28
+"33",37810,"Game # 33. 10 September 2013, Tuesday, 19:00","Ak Bars Kazan","Traktor Chelyabinsk",3,39,2,22
+"34",37811,"Game # 34. 10 September 2013, Tuesday, 19:00","Torpedo Nizhny Novgorod","Metallurg Magnitogorsk",5,27,0,20
+"35",37812,"Game # 35. 10 September 2013, Tuesday, 19:00","Vityaz Moscow Region","Neftekhimik Nizhnekamsk",1,24,0,38
+"36",37813,"Game # 36. 10 September 2013, Tuesday, 19:30","Dynamo Moscow","Salavat Yulaev Ufa",4,38,1,34
+"37",37814,"Game # 37. 10 September 2013, Tuesday, 19:30","Spartak Moscow","Dinamo Riga",1,24,3,27
+"38",37815,"Game # 38. 10 September 2013, Tuesday, 20:00","Donbass Donetsk","CSKA Moscow",1,23,4,32
+"39",37816,"Game # 39. 10 September 2013, Tuesday, 20:00","Dinamo Minsk","Slovan Bratislava",2,19,0,26
+"40",37817,"Game # 40. 10 September 2013, Tuesday, 21:30","Medvescak Zagreb","Lev Prague",1,25,3,31
+"41",37818,"Game # 41. 11 September 2013, Wednesday, 16:00","Metallurg Novokuznetsk","Admiral Vladivostok",1,35,2,39
+"42",37819,"Game # 42. 11 September 2013, Wednesday, 16:00","Sibir Novosibirsk Region","Amur Khabarovsk",2,45,2,41
+"43",37820,"Game # 43. 12 September 2013, Thursday, 16:00","Avangard Omsk Region","Atlant Moscow Region",4,28,3,22
+"44",37821,"Game # 44. 12 September 2013, Thursday, 17:00","Barys Astana","SKA Saint Petersburg",2,36,5,37
+"45",37822,"Game # 45. 12 September 2013, Thursday, 17:00","Ugra Khanty-Mansiysk","Severstal Cherepovets",3,33,1,30
+"46",37823,"Game # 46. 12 September 2013, Thursday, 17:00","Avtomobilist Yekaterinburg","Lokomotiv Yaroslavl",0,28,4,30
+"47",37824,"Game # 47. 12 September 2013, Thursday, 19:00","Ak Bars Kazan","Metallurg Magnitogorsk",3,21,2,31
+"48",37825,"Game # 48. 12 September 2013, Thursday, 19:00","Torpedo Nizhny Novgorod","Neftekhimik Nizhnekamsk",0,31,2,28
+"49",37826,"Game # 49. 12 September 2013, Thursday, 19:00","Vityaz Moscow Region","Salavat Yulaev Ufa",2,34,3,33
+"50",37827,"Game # 50. 12 September 2013, Thursday, 19:30","Spartak Moscow","CSKA Moscow",3,24,2,30
+"51",37828,"Game # 51. 12 September 2013, Thursday, 20:00","Donbass Donetsk","Dinamo Riga",2,36,4,24
+"52",37829,"Game # 52. 12 September 2013, Thursday, 20:00","Dinamo Minsk","Lev Prague",1,30,3,22
+"53",37830,"Game # 53. 13 September 2013, Friday, 21:30","Medvescak Zagreb","Slovan Bratislava",3,26,4,35
+"54",37831,"Game # 54. 14 September 2013, Saturday, 15:30","Barys Astana","Atlant Moscow Region",5,38,4,40
+"55",37832,"Game # 55. 14 September 2013, Saturday, 13:00","Vityaz Moscow Region","Dynamo Moscow",0,18,2,36
+"56",37833,"Game # 56. 14 September 2013, Saturday, 17:00","Spartak Moscow","Lev Prague",4,29,3,34
+"57",37834,"Game # 57. 14 September 2013, Saturday, 18:00","CSKA Moscow","Dinamo Riga",1,21,1,18
+"58",37835,"Game # 58. 15 September 2013, Sunday, 15:00","Ugra Khanty-Mansiysk","Avtomobilist Yekaterinburg",1,40,2,25
+"59",37836,"Game # 59. 24 September 2013, Tuesday, 17:00","Traktor Chelyabinsk","Sibir Novosibirsk Region",1,20,0,27
+"60",37837,"Game # 60. 16 September 2013, Monday, 17:00","Metallurg Magnitogorsk","Metallurg Novokuznetsk",3,35,1,35
+"61",37838,"Game # 61. 16 September 2013, Monday, 17:00","Salavat Yulaev Ufa","Amur Khabarovsk",3,29,4,43
+"62",37839,"Game # 62. 16 September 2013, Monday, 19:00","Neftekhimik Nizhnekamsk","Admiral Vladivostok",5,38,5,33
+"63",37840,"Game # 63. 16 September 2013, Monday, 19:30","Lokomotiv Yaroslavl","Donbass Donetsk",3,23,4,26
+"64",37841,"Game # 64. 16 September 2013, Monday, 19:00","Severstal Cherepovets","Dinamo Minsk",4,39,2,24
+"65",37842,"Game # 65. 16 September 2013, Monday, 19:30","SKA Saint Petersburg","Medvescak Zagreb",3,24,0,31
+"66",37843,"Game # 66. 17 September 2013, Tuesday, 17:00","Barys Astana","Avangard Omsk Region",5,35,2,25
+"67",37844,"Game # 67. 17 September 2013, Tuesday, 19:30","CSKA Moscow","Dynamo Moscow",6,34,3,29
+"68",37845,"Game # 68. 17 September 2013, Tuesday, 20:30","Dinamo Riga","Ak Bars Kazan",1,25,3,16
+"69",37846,"Game # 69. 17 September 2013, Tuesday, 21:00","Slovan Bratislava","Torpedo Nizhny Novgorod",0,20,3,22
+"70",37847,"Game # 70. 17 September 2013, Tuesday, 20:00","Lev Prague","Vityaz Moscow Region",4,34,1,23
+"71",37848,"Game # 71. 18 September 2013, Wednesday, 17:00","Traktor Chelyabinsk","Metallurg Novokuznetsk",5,36,1,19
+"72",37849,"Game # 72. 18 September 2013, Wednesday, 17:00","Metallurg Magnitogorsk","Sibir Novosibirsk Region",3,28,2,26
+"73",37850,"Game # 73. 18 September 2013, Wednesday, 17:00","Salavat Yulaev Ufa","Admiral Vladivostok",4,27,1,33
+"74",37851,"Game # 74. 18 September 2013, Wednesday, 19:00","Neftekhimik Nizhnekamsk","Amur Khabarovsk",6,45,2,42
+"75",37852,"Game # 75. 18 September 2013, Wednesday, 19:30","Lokomotiv Yaroslavl","Spartak Moscow",1,33,1,39
+"76",37853,"Game # 76. 18 September 2013, Wednesday, 19:00","Severstal Cherepovets","Medvescak Zagreb",6,36,2,30
+"77",37854,"Game # 77. 18 September 2013, Wednesday, 19:30","Atlant Moscow Region","Donbass Donetsk",1,27,0,26
+"78",37855,"Game # 78. 18 September 2013, Wednesday, 19:30","SKA Saint Petersburg","Dinamo Minsk",5,42,1,36
+"79",37856,"Game # 79. 19 September 2013, Thursday, 17:00","Ugra Khanty-Mansiysk","Barys Astana",2,24,6,23
+"80",37857,"Game # 80. 19 September 2013, Thursday, 17:00","Avtomobilist Yekaterinburg","Avangard Omsk Region",4,30,1,27
+"81",37858,"Game # 81. 19 September 2013, Thursday, 19:30","CSKA Moscow","Ak Bars Kazan",2,32,0,23
+"82",37859,"Game # 82. 19 September 2013, Thursday, 20:30","Dinamo Riga","Dynamo Moscow",2,26,2,31
+"83",37860,"Game # 83. 19 September 2013, Thursday, 21:00","Slovan Bratislava","Vityaz Moscow Region",1,38,4,23
+"84",37861,"Game # 84. 19 September 2013, Thursday, 21:00","Lev Prague","Torpedo Nizhny Novgorod",3,31,3,34
+"85",37862,"Game # 85. 20 September 2013, Friday, 17:00","Traktor Chelyabinsk","Amur Khabarovsk",1,31,1,26
+"86",37863,"Game # 86. 20 September 2013, Friday, 17:00","Metallurg Magnitogorsk","Admiral Vladivostok",4,21,1,24
+"87",37864,"Game # 87. 20 September 2013, Friday, 17:00","Salavat Yulaev Ufa","Sibir Novosibirsk Region",2,26,3,30
+"88",37865,"Game # 88. 20 September 2013, Friday, 19:00","Neftekhimik Nizhnekamsk","Metallurg Novokuznetsk",6,50,3,41
+"89",37866,"Game # 89. 20 September 2013, Friday, 19:00","Lokomotiv Yaroslavl","Medvescak Zagreb",2,39,2,25
+"90",37867,"Game # 90. 20 September 2013, Friday, 19:00","Severstal Cherepovets","Donbass Donetsk",0,27,4,37
+"91",37868,"Game # 91. 20 September 2013, Friday, 19:30","Atlant Moscow Region","Dinamo Minsk",3,31,2,16
+"92",37869,"Game # 92. 20 September 2013, Friday, 19:30","SKA Saint Petersburg","Spartak Moscow",4,28,1,27
+"93",37870,"Game # 93. 21 September 2013, Saturday, 17:00","CSKA Moscow","Torpedo Nizhny Novgorod",1,29,2,22
+"94",37871,"Game # 94. 21 September 2013, Saturday, 18:00","Dinamo Riga","Vityaz Moscow Region",6,30,1,17
+"95",37872,"Game # 95. 21 September 2013, Saturday, 19:30","Slovan Bratislava","Ak Bars Kazan",2,25,1,23
+"96",37873,"Game # 96. 21 September 2013, Saturday, 19:30","Lev Prague","Dynamo Moscow",2,33,1,22
+"97",37874,"Game # 97. 22 September 2013, Sunday, 14:00","Avangard Omsk Region","Ugra Khanty-Mansiysk",2,26,6,21
+"98",37875,"Game # 98. 22 September 2013, Sunday, 15:00","Barys Astana","Avtomobilist Yekaterinburg",7,35,2,22
+"99",37876,"Game # 99. 22 September 2013, Sunday, 15:00","Traktor Chelyabinsk","Admiral Vladivostok",3,25,1,30
+"100",37877,"Game # 100. 22 September 2013, Sunday, 15:00","Metallurg Magnitogorsk","Amur Khabarovsk",6,28,1,30
+"101",37878,"Game # 101. 22 September 2013, Sunday, 15:00","Salavat Yulaev Ufa","Metallurg Novokuznetsk",4,25,3,34
+"102",37879,"Game # 102. 22 September 2013, Sunday, 17:00","Neftekhimik Nizhnekamsk","Sibir Novosibirsk Region",4,30,3,37
+"103",37880,"Game # 103. 22 September 2013, Sunday, 17:00","Lokomotiv Yaroslavl","Dinamo Minsk",4,36,1,27
+"104",37881,"Game # 104. 22 September 2013, Sunday, 17:00","Severstal Cherepovets","Spartak Moscow",4,36,5,39
+"105",37882,"Game # 105. 22 September 2013, Sunday, 17:00","Atlant Moscow Region","Medvescak Zagreb",3,46,2,41
+"106",37883,"Game # 106. 22 September 2013, Sunday, 17:30","SKA Saint Petersburg","Donbass Donetsk",2,39,4,20
+"107",37884,"Game # 107. 23 September 2013, Monday, 20:30","Dinamo Riga","Torpedo Nizhny Novgorod",2,31,3,18
+"108",37885,"Game # 108. 23 September 2013, Monday, 21:00","Slovan Bratislava","Dynamo Moscow",4,14,5,30
+"109",37886,"Game # 109. 23 September 2013, Monday, 21:00","Lev Prague","Ak Bars Kazan",1,34,2,23
+"110",37887,"Game # 110. 24 September 2013, Tuesday, 19:00","Vityaz Moscow Region","CSKA Moscow",3,29,2,33
+"111",37888,"Game # 111. 26 September 2013, Thursday, 19:30","Atlant Moscow Region","Vityaz Moscow Region",3,35,1,22
+"112",37889,"Game # 112. 26 September 2013, Thursday, 19:30","Spartak Moscow","Avtomobilist Yekaterinburg",1,24,1,25
+"113",37890,"Game # 113. 26 September 2013, Thursday, 20:00","Donbass Donetsk","Barys Astana",2,46,4,20
+"114",37891,"Game # 114. 26 September 2013, Thursday, 21:30","Medvescak Zagreb","Ugra Khanty-Mansiysk",2,35,1,24
+"115",37892,"Game # 115. 27 September 2013, Friday, 13:00","Admiral Vladivostok","CSKA Moscow",4,21,2,25
+"116",37893,"Game # 116. 27 September 2013, Friday, 12:00","Amur Khabarovsk","Dinamo Riga",2,33,1,29
+"117",37894,"Game # 117. 27 September 2013, Friday, 16:00","Metallurg Novokuznetsk","Lev Prague",3,17,5,40
+"118",37895,"Game # 118. 27 September 2013, Friday, 16:00","Sibir Novosibirsk Region","Slovan Bratislava",3,42,1,40
+"119",37896,"Game # 119.  3 October 2013, Thursday, 17:00","Metallurg Magnitogorsk","Traktor Chelyabinsk",3,31,0,23
+"120",37897,"Game # 120. 27 September 2013, Friday, 17:00","Salavat Yulaev Ufa","Neftekhimik Nizhnekamsk",2,27,1,35
+"121",37898,"Game # 121. 27 September 2013, Friday, 19:30","Ak Bars Kazan","Severstal Cherepovets",1,24,0,25
+"122",37899,"Game # 122. 27 September 2013, Friday, 19:00","Torpedo Nizhny Novgorod","Lokomotiv Yaroslavl",5,31,0,21
+"123",37900,"Game # 123. 27 September 2013, Friday, 19:30","Dynamo Moscow","SKA Saint Petersburg",2,34,6,35
+"124",37901,"Game # 124. 28 September 2013, Saturday, 17:00","Spartak Moscow","Avangard Omsk Region",2,32,2,24
+"125",37902,"Game # 125. 28 September 2013, Saturday, 18:00","Donbass Donetsk","Ugra Khanty-Mansiysk",2,32,0,27
+"126",37903,"Game # 126. 28 September 2013, Saturday, 18:00","Dinamo Minsk","Avtomobilist Yekaterinburg",2,36,0,23
+"127",37904,"Game # 127. 28 September 2013, Saturday, 19:30","Medvescak Zagreb","Barys Astana",3,35,2,35
+"128",37905,"Game # 128. 29 September 2013, Sunday, 10:00","Admiral Vladivostok","Dinamo Riga",3,20,0,24
+"129",37906,"Game # 129. 29 September 2013, Sunday, 10:00","Amur Khabarovsk","CSKA Moscow",1,31,3,32
+"130",37907,"Game # 130. 29 September 2013, Sunday, 14:00","Metallurg Novokuznetsk","Slovan Bratislava",1,26,3,33
+"131",37908,"Game # 131. 29 September 2013, Sunday, 14:00","Sibir Novosibirsk Region","Lev Prague",5,25,3,42
+"132",37909,"Game # 132. 29 September 2013, Sunday, 15:00","Metallurg Magnitogorsk","Neftekhimik Nizhnekamsk",4,36,3,32
+"133",37910,"Game # 133. 29 September 2013, Sunday, 15:00","Salavat Yulaev Ufa","Traktor Chelyabinsk",3,49,1,21
+"134",37911,"Game # 134. 29 September 2013, Sunday, 17:30","Ak Bars Kazan","Lokomotiv Yaroslavl",2,25,0,25
+"135",37912,"Game # 135. 29 September 2013, Sunday, 17:00","Torpedo Nizhny Novgorod","Severstal Cherepovets",0,22,2,23
+"136",37913,"Game # 136. 29 September 2013, Sunday, 17:30","Vityaz Moscow Region","SKA Saint Petersburg",2,31,2,34
+"137",37914,"Game # 137. 29 September 2013, Sunday, 17:00","Dynamo Moscow","Atlant Moscow Region",3,25,2,27
+"138",37915,"Game # 138. 30 September 2013, Monday, 19:30","Spartak Moscow","Ugra Khanty-Mansiysk",0,36,1,22
+"139",37916,"Game # 139. 30 September 2013, Monday, 20:00","Donbass Donetsk","Avangard Omsk Region",6,25,1,28
+"140",37917,"Game # 140. 30 September 2013, Monday, 20:00","Dinamo Minsk","Barys Astana",2,41,5,33
+"141",37918,"Game # 141. 30 September 2013, Monday, 21:30","Medvescak Zagreb","Avtomobilist Yekaterinburg",3,21,0,32
+"142",37919,"Game # 142.  1 October 2013, Tuesday, 13:00","Admiral Vladivostok","Lev Prague",2,32,3,34
+"143",37920,"Game # 143.  1 October 2013, Tuesday, 12:00","Amur Khabarovsk","Slovan Bratislava",2,33,5,28
+"144",37921,"Game # 144.  1 October 2013, Tuesday, 16:00","Metallurg Novokuznetsk","CSKA Moscow",2,28,3,40
+"145",37922,"Game # 145.  1 October 2013, Tuesday, 16:00","Sibir Novosibirsk Region","Dinamo Riga",1,30,4,32
+"146",37923,"Game # 146.  1 October 2013, Tuesday, 19:00","Ak Bars Kazan","Atlant Moscow Region",4,24,2,21
+"147",37924,"Game # 147.  1 October 2013, Tuesday, 19:30","Torpedo Nizhny Novgorod","SKA Saint Petersburg",5,23,2,26
+"148",37925,"Game # 148.  1 October 2013, Tuesday, 19:00","Vityaz Moscow Region","Lokomotiv Yaroslavl",2,34,3,28
+"149",37926,"Game # 149.  1 October 2013, Tuesday, 19:30","Dynamo Moscow","Severstal Cherepovets",3,33,1,20
+"150",37927,"Game # 150.  2 October 2013, Wednesday, 19:00","Neftekhimik Nizhnekamsk","Salavat Yulaev Ufa",4,34,3,28
+"151",37928,"Game # 151.  2 October 2013, Wednesday, 19:30","Spartak Moscow","Barys Astana",3,26,4,26
+"152",37929,"Game # 152.  2 October 2013, Wednesday, 19:30","Donbass Donetsk","Avtomobilist Yekaterinburg",4,26,2,23
+"153",37930,"Game # 153.  2 October 2013, Wednesday, 20:00","Dinamo Minsk","Ugra Khanty-Mansiysk",5,28,3,34
+"154",37931,"Game # 154.  2 October 2013, Wednesday, 21:30","Medvescak Zagreb","Avangard Omsk Region",4,16,0,39
+"155",37932,"Game # 155.  3 October 2013, Thursday, 13:00","Admiral Vladivostok","Slovan Bratislava",3,37,1,27
+"156",37933,"Game # 156.  3 October 2013, Thursday, 12:00","Amur Khabarovsk","Lev Prague",3,31,0,35
+"157",37934,"Game # 157.  3 October 2013, Thursday, 16:00","Metallurg Novokuznetsk","Dinamo Riga",0,35,2,25
+"158",37935,"Game # 158.  3 October 2013, Thursday, 16:00","Sibir Novosibirsk Region","CSKA Moscow",3,35,2,34
+"159",37936,"Game # 159. 26 September 2013, Thursday, 17:00","Traktor Chelyabinsk","Metallurg Magnitogorsk",0,34,5,24
+"160",37937,"Game # 160.  3 October 2013, Thursday, 19:30","Ak Bars Kazan","SKA Saint Petersburg",1,31,3,28
+"161",37938,"Game # 161.  3 October 2013, Thursday, 19:30","Torpedo Nizhny Novgorod","Atlant Moscow Region",1,28,3,17
+"162",37939,"Game # 162.  3 October 2013, Thursday, 19:00","Vityaz Moscow Region","Severstal Cherepovets",3,27,1,29
+"163",37940,"Game # 163.  3 October 2013, Thursday, 19:30","Dynamo Moscow","Lokomotiv Yaroslavl",1,27,3,31
+"164",37941,"Game # 164.  4 October 2013, Friday, 20:00","Dinamo Minsk","Avangard Omsk Region",4,25,3,37
+"165",37942,"Game # 165.  5 October 2013, Saturday, 17:00","Dynamo Moscow","Spartak Moscow",2,32,1,18
+"166",37943,"Game # 166.  6 October 2013, Sunday, 15:00","Avtomobilist Yekaterinburg","Donbass Donetsk",0,25,3,30
+"167",37944,"Game # 167.  7 October 2013, Monday, 19:00","Lokomotiv Yaroslavl","Metallurg Novokuznetsk",1,41,0,22
+"168",37945,"Game # 168.  7 October 2013, Monday, 19:00","Severstal Cherepovets","Sibir Novosibirsk Region",2,39,3,33
+"169",37946,"Game # 169.  7 October 2013, Monday, 19:30","Atlant Moscow Region","Admiral Vladivostok",2,13,1,35
+"170",37947,"Game # 170.  7 October 2013, Monday, 19:30","SKA Saint Petersburg","Amur Khabarovsk",4,37,3,23
+"171",37948,"Game # 171.  7 October 2013, Monday, 18:30","CSKA Moscow","Salavat Yulaev Ufa",3,26,2,26
+"172",37949,"Game # 172.  7 October 2013, Monday, 21:00","Lev Prague","Metallurg Magnitogorsk",3,30,4,26
+"173",37950,"Game # 173.  7 October 2013, Monday, 21:30","Medvescak Zagreb","Neftekhimik Nizhnekamsk",6,38,0,30
+"174",37951,"Game # 174.  8 October 2013, Tuesday, 16:00","Avangard Omsk Region","Dynamo Moscow",0,36,6,23
+"175",37952,"Game # 175.  8 October 2013, Tuesday, 17:00","Barys Astana","Vityaz Moscow Region",2,39,2,23
+"176",37953,"Game # 176.  8 October 2013, Tuesday, 17:00","Ugra Khanty-Mansiysk","Ak Bars Kazan",3,28,4,33
+"177",37954,"Game # 177.  8 October 2013, Tuesday, 17:00","Avtomobilist Yekaterinburg","Torpedo Nizhny Novgorod",2,30,4,33
+"178",37955,"Game # 178.  8 October 2013, Tuesday, 19:30","Spartak Moscow","Donbass Donetsk",2,33,1,23
+"179",37956,"Game # 179.  9 October 2013, Wednesday, 19:00","Lokomotiv Yaroslavl","Admiral Vladivostok",4,32,0,37
+"180",37957,"Game # 180.  9 October 2013, Wednesday, 19:00","Severstal Cherepovets","Amur Khabarovsk",3,40,2,39
+"181",37958,"Game # 181.  9 October 2013, Wednesday, 19:30","Atlant Moscow Region","Metallurg Novokuznetsk",2,37,1,21
+"182",37959,"Game # 182.  9 October 2013, Wednesday, 19:30","SKA Saint Petersburg","Sibir Novosibirsk Region",1,24,1,22
+"183",37960,"Game # 183.  9 October 2013, Wednesday, 19:30","CSKA Moscow","Traktor Chelyabinsk",1,32,3,16
+"184",37961,"Game # 184.  9 October 2013, Wednesday, 20:00","Dinamo Minsk","Medvescak Zagreb",2,21,3,43
+"185",37962,"Game # 185.  9 October 2013, Wednesday, 20:30","Dinamo Riga","Salavat Yulaev Ufa",2,28,5,29
+"186",37963,"Game # 186.  9 October 2013, Wednesday, 21:00","Slovan Bratislava","Metallurg Magnitogorsk",4,42,3,23
+"187",37964,"Game # 187.  9 October 2013, Wednesday, 21:00","Lev Prague","Neftekhimik Nizhnekamsk",2,38,0,25
+"188",37965,"Game # 188. 10 October 2013, Thursday, 16:00","Avangard Omsk Region","Vityaz Moscow Region",3,32,1,13
+"189",37966,"Game # 189. 10 October 2013, Thursday, 17:00","Barys Astana","Dynamo Moscow",3,40,3,28
+"190",37967,"Game # 190. 10 October 2013, Thursday, 17:00","Ugra Khanty-Mansiysk","Torpedo Nizhny Novgorod",4,22,3,28
+"191",37968,"Game # 191. 10 October 2013, Thursday, 17:00","Avtomobilist Yekaterinburg","Ak Bars Kazan",2,39,2,27
+"192",37969,"Game # 192. 11 October 2013, Friday, 19:00","Lokomotiv Yaroslavl","Amur Khabarovsk",0,38,0,32
+"193",37970,"Game # 193. 11 October 2013, Friday, 19:00","Severstal Cherepovets","Admiral Vladivostok",4,50,4,35
+"194",37971,"Game # 194. 11 October 2013, Friday, 19:30","Atlant Moscow Region","Sibir Novosibirsk Region",1,26,2,31
+"195",37972,"Game # 195. 11 October 2013, Friday, 19:30","SKA Saint Petersburg","Metallurg Novokuznetsk",4,49,1,30
+"196",37973,"Game # 196. 11 October 2013, Friday, 19:00","CSKA Moscow","Metallurg Magnitogorsk",1,33,1,28
+"197",37974,"Game # 197. 11 October 2013, Friday, 20:00","Donbass Donetsk","Medvescak Zagreb",2,40,5,28
+"198",37975,"Game # 198. 11 October 2013, Friday, 20:00","Dinamo Minsk","Spartak Moscow",3,26,1,44
+"199",37976,"Game # 199. 11 October 2013, Friday, 20:30","Dinamo Riga","Neftekhimik Nizhnekamsk",2,35,1,28
+"200",37977,"Game # 200. 11 October 2013, Friday, 21:00","Slovan Bratislava","Salavat Yulaev Ufa",1,34,1,31
+"201",37978,"Game # 201. 11 October 2013, Friday, 21:30","Lev Prague","Traktor Chelyabinsk",7,31,2,22
+"202",37979,"Game # 202. 12 October 2013, Saturday, 14:00","Avangard Omsk Region","Torpedo Nizhny Novgorod",5,34,1,22
+"203",37980,"Game # 203. 12 October 2013, Saturday, 15:00","Barys Astana","Ak Bars Kazan",0,18,5,28
+"204",37981,"Game # 204. 12 October 2013, Saturday, 15:00","Ugra Khanty-Mansiysk","Vityaz Moscow Region",3,21,1,32
+"205",37982,"Game # 205. 12 October 2013, Saturday, 15:00","Avtomobilist Yekaterinburg","Dynamo Moscow",2,21,4,32
+"206",37983,"Game # 206. 13 October 2013, Sunday, 17:00","Atlant Moscow Region","Amur Khabarovsk",1,27,1,25
+"207",37984,"Game # 207. 13 October 2013, Sunday, 17:00","Lokomotiv Yaroslavl","Sibir Novosibirsk Region",1,24,1,28
+"208",37985,"Game # 208. 13 October 2013, Sunday, 17:00","Severstal Cherepovets","Metallurg Novokuznetsk",5,26,2,42
+"209",37986,"Game # 209. 13 October 2013, Sunday, 17:00","SKA Saint Petersburg","Admiral Vladivostok",1,45,3,20
+"210",37987,"Game # 210. 13 October 2013, Sunday, 17:00","CSKA Moscow","Neftekhimik Nizhnekamsk",2,24,1,38
+"211",37988,"Game # 211. 13 October 2013, Sunday, 18:30","Dinamo Minsk","Donbass Donetsk",2,29,4,38
+"212",37989,"Game # 212. 13 October 2013, Sunday, 18:00","Dinamo Riga","Metallurg Magnitogorsk",3,40,2,24
+"213",37990,"Game # 213. 13 October 2013, Sunday, 18:00","Slovan Bratislava","Traktor Chelyabinsk",6,35,5,22
+"214",37991,"Game # 214. 13 October 2013, Sunday, 15:00","Lev Prague","Salavat Yulaev Ufa",2,30,3,16
+"215",37992,"Game # 215. 13 October 2013, Sunday, 19:30","Medvescak Zagreb","Spartak Moscow",2,44,2,30
+"216",37993,"Game # 216. 14 October 2013, Monday, 16:00","Avangard Omsk Region","Ak Bars Kazan",2,38,3,21
+"217",37994,"Game # 217. 14 October 2013, Monday, 17:00","Barys Astana","Torpedo Nizhny Novgorod",4,31,2,36
+"218",37995,"Game # 218. 14 October 2013, Monday, 17:00","Ugra Khanty-Mansiysk","Dynamo Moscow",1,26,4,32
+"219",37996,"Game # 219. 14 October 2013, Monday, 17:00","Avtomobilist Yekaterinburg","Vityaz Moscow Region",1,36,1,38
+"220",37997,"Game # 220. 15 October 2013, Tuesday, 21:00","Slovan Bratislava","Lev Prague",5,22,2,29
+"221",37998,"Game # 221. 16 October 2013, Wednesday, 17:00","Traktor Chelyabinsk","SKA Saint Petersburg",0,23,7,37
+"222",37999,"Game # 222. 16 October 2013, Wednesday, 17:00","Metallurg Magnitogorsk","Atlant Moscow Region",4,31,3,26
+"223",38000,"Game # 223. 16 October 2013, Wednesday, 17:00","Salavat Yulaev Ufa","Lokomotiv Yaroslavl",3,24,1,21
+"224",38001,"Game # 224. 16 October 2013, Wednesday, 19:00","Neftekhimik Nizhnekamsk","Severstal Cherepovets",1,36,2,24
+"225",38002,"Game # 225. 17 October 2013, Thursday, 13:00","Admiral Vladivostok","Ugra Khanty-Mansiysk",2,34,3,31
+"226",38003,"Game # 226. 17 October 2013, Thursday, 12:00","Amur Khabarovsk","Avtomobilist Yekaterinburg",3,39,5,35
+"227",38004,"Game # 227. 17 October 2013, Thursday, 16:00","Metallurg Novokuznetsk","Barys Astana",3,27,5,30
+"228",38005,"Game # 228. 17 October 2013, Thursday, 16:00","Sibir Novosibirsk Region","Avangard Omsk Region",2,26,1,36
+"229",38006,"Game # 229. 17 October 2013, Thursday, 19:00","Ak Bars Kazan","Medvescak Zagreb",5,21,3,39
+"230",38007,"Game # 230. 17 October 2013, Thursday, 19:00","Torpedo Nizhny Novgorod","Donbass Donetsk",1,28,0,25
+"231",38008,"Game # 231. 17 October 2013, Thursday, 19:00","Vityaz Moscow Region","Dinamo Minsk",1,39,1,29
+"232",38009,"Game # 232. 17 October 2013, Thursday, 21:30","Slovan Bratislava","Dinamo Riga",3,33,4,24
+"233",38010,"Game # 233. 18 October 2013, Friday, 17:00","Traktor Chelyabinsk","Atlant Moscow Region",2,22,3,22
+"234",38011,"Game # 234. 18 October 2013, Friday, 17:00","Metallurg Magnitogorsk","SKA Saint Petersburg",1,24,4,42
+"235",38012,"Game # 235. 18 October 2013, Friday, 17:00","Salavat Yulaev Ufa","Severstal Cherepovets",8,34,3,27
+"236",38013,"Game # 236. 18 October 2013, Friday, 19:00","Neftekhimik Nizhnekamsk","Lokomotiv Yaroslavl",1,34,2,30
+"237",38014,"Game # 237. 19 October 2013, Saturday, 10:00","Admiral Vladivostok","Avtomobilist Yekaterinburg",2,30,1,40
+"238",38015,"Game # 238. 19 October 2013, Saturday, 10:00","Amur Khabarovsk","Ugra Khanty-Mansiysk",4,28,2,46
+"239",38016,"Game # 239. 19 October 2013, Saturday, 14:00","Metallurg Novokuznetsk","Avangard Omsk Region",4,23,3,37
+"240",38017,"Game # 240. 19 October 2013, Saturday, 14:00","Sibir Novosibirsk Region","Barys Astana",2,38,3,28
+"241",38018,"Game # 241. 19 October 2013, Saturday, 17:00","Ak Bars Kazan","Dinamo Minsk",5,32,1,21
+"242",38019,"Game # 242. 19 October 2013, Saturday, 17:00","Torpedo Nizhny Novgorod","Spartak Moscow",3,24,4,25
+"243",38020,"Game # 243. 19 October 2013, Saturday, 17:00","Vityaz Moscow Region","Donbass Donetsk",4,24,2,34
+"244",38021,"Game # 244. 19 October 2013, Saturday, 17:00","Dynamo Moscow","Medvescak Zagreb",4,36,3,23
+"245",38022,"Game # 245. 19 October 2013, Saturday, 19:30","Lev Prague","CSKA Moscow",1,33,2,28
+"246",38023,"Game # 246. 20 October 2013, Sunday, 15:00","Traktor Chelyabinsk","Lokomotiv Yaroslavl",2,17,1,33
+"247",38024,"Game # 247. 20 October 2013, Sunday, 15:00","Metallurg Magnitogorsk","Severstal Cherepovets",4,28,2,34
+"248",38025,"Game # 248. 20 October 2013, Sunday, 15:00","Salavat Yulaev Ufa","SKA Saint Petersburg",4,22,2,29
+"249",38026,"Game # 249. 20 October 2013, Sunday, 17:00","Neftekhimik Nizhnekamsk","Atlant Moscow Region",3,41,3,23
+"250",38027,"Game # 250. 21 October 2013, Monday, 12:00","Amur Khabarovsk","Avangard Omsk Region",2,27,5,25
+"251",38028,"Game # 251. 21 October 2013, Monday, 13:00","Admiral Vladivostok","Barys Astana",1,34,3,24
+"252",38029,"Game # 252. 21 October 2013, Monday, 16:00","Sibir Novosibirsk Region","Avtomobilist Yekaterinburg",3,40,3,27
+"253",38030,"Game # 253. 21 October 2013, Monday, 16:00","Metallurg Novokuznetsk","Ugra Khanty-Mansiysk",2,25,1,28
+"254",38031,"Game # 254. 21 October 2013, Monday, 19:00","Torpedo Nizhny Novgorod","Dinamo Minsk",3,28,0,22
+"255",38032,"Game # 255. 21 October 2013, Monday, 19:00","Ak Bars Kazan","Spartak Moscow",2,26,0,30
+"256",38033,"Game # 256. 21 October 2013, Monday, 19:00","Vityaz Moscow Region","Medvescak Zagreb",1,22,0,32
+"257",38034,"Game # 257. 21 October 2013, Monday, 19:30","Dynamo Moscow","Donbass Donetsk",1,24,2,27
+"258",38035,"Game # 258. 21 October 2013, Monday, 21:00","Slovan Bratislava","CSKA Moscow",2,20,3,19
+"259",38036,"Game # 259. 21 October 2013, Monday, 21:30","Lev Prague","Dinamo Riga",1,32,1,16
+"260",38037,"Game # 260. 22 October 2013, Tuesday, 17:00","Traktor Chelyabinsk","Severstal Cherepovets",2,23,2,36
+"261",38038,"Game # 261. 22 October 2013, Tuesday, 17:00","Metallurg Magnitogorsk","Lokomotiv Yaroslavl",1,37,1,31
+"262",38039,"Game # 262. 22 October 2013, Tuesday, 17:00","Salavat Yulaev Ufa","Atlant Moscow Region",3,31,1,30
+"263",38040,"Game # 263. 22 October 2013, Tuesday, 19:30","Neftekhimik Nizhnekamsk","SKA Saint Petersburg",1,31,3,34
+"264",38041,"Game # 264. 23 October 2013, Wednesday, 13:00","Admiral Vladivostok","Avangard Omsk Region",4,26,1,31
+"265",38042,"Game # 265. 23 October 2013, Wednesday, 12:00","Amur Khabarovsk","Barys Astana",3,26,4,33
+"266",38043,"Game # 266. 23 October 2013, Wednesday, 16:00","Metallurg Novokuznetsk","Avtomobilist Yekaterinburg",1,35,3,36
+"267",38044,"Game # 267. 23 October 2013, Wednesday, 16:00","Sibir Novosibirsk Region","Ugra Khanty-Mansiysk",7,45,2,29
+"268",38045,"Game # 268. 23 October 2013, Wednesday, 19:00","Ak Bars Kazan","Donbass Donetsk",1,25,0,32
+"269",38046,"Game # 269. 23 October 2013, Wednesday, 19:00","Torpedo Nizhny Novgorod","Medvescak Zagreb",2,34,1,24
+"270",38047,"Game # 270. 23 October 2013, Wednesday, 19:30","Dynamo Moscow","Dinamo Minsk",4,33,0,24
+"271",38048,"Game # 271. 23 October 2013, Wednesday, 20:30","Dinamo Riga","CSKA Moscow",4,23,3,31
+"272",38049,"Game # 272. 24 October 2013, Thursday, 19:30","Spartak Moscow","Vityaz Moscow Region",3,39,2,23
+"273",38050,"Game # 273. 25 October 2013, Friday, 19:00","CSKA Moscow","Atlant Moscow Region",1,24,4,23
+"274",38051,"Game # 274. 26 October 2013, Saturday, 14:00","Avangard Omsk Region","Traktor Chelyabinsk",1,33,1,30
+"275",38052,"Game # 275. 26 October 2013, Saturday, 15:00","Barys Astana","Metallurg Magnitogorsk",1,26,2,33
+"276",38053,"Game # 276. 26 October 2013, Saturday, 15:00","Ugra Khanty-Mansiysk","Neftekhimik Nizhnekamsk",3,36,6,32
+"277",38054,"Game # 277. 26 October 2013, Saturday, 15:00","Avtomobilist Yekaterinburg","Salavat Yulaev Ufa",7,38,4,29
+"278",38055,"Game # 278. 26 October 2013, Saturday, 17:00","Lokomotiv Yaroslavl","Lev Prague",0,17,2,41
+"279",38056,"Game # 279. 26 October 2013, Saturday, 17:00","Severstal Cherepovets","Slovan Bratislava",2,27,0,29
+"280",38057,"Game # 280. 26 October 2013, Saturday, 17:30","SKA Saint Petersburg","Dinamo Riga",3,45,3,20
+"281",38058,"Game # 281. 26 October 2013, Saturday, 17:00","Spartak Moscow","Admiral Vladivostok",1,18,3,30
+"282",38059,"Game # 282. 26 October 2013, Saturday, 17:00","Vityaz Moscow Region","Metallurg Novokuznetsk",1,34,0,32
+"283",38060,"Game # 283. 26 October 2013, Saturday, 17:00","Dynamo Moscow","Sibir Novosibirsk Region",5,31,1,24
+"284",38061,"Game # 284. 25 October 2013, Friday, 20:00","Dinamo Minsk","Amur Khabarovsk",2,30,2,26
+"285",38062,"Game # 285. 28 October 2013, Monday, 16:00","Avangard Omsk Region","Metallurg Magnitogorsk",2,25,5,23
+"286",38063,"Game # 286. 28 October 2013, Monday, 17:00","Barys Astana","Traktor Chelyabinsk",1,33,5,24
+"287",38064,"Game # 287. 28 October 2013, Monday, 17:00","Ugra Khanty-Mansiysk","Salavat Yulaev Ufa",4,28,5,35
+"288",38065,"Game # 288. 28 October 2013, Monday, 17:00","Avtomobilist Yekaterinburg","Neftekhimik Nizhnekamsk",3,32,2,30
+"289",38066,"Game # 289. 28 October 2013, Monday, 19:00","Lokomotiv Yaroslavl","Slovan Bratislava",2,19,1,31
+"290",38067,"Game # 290. 28 October 2013, Monday, 19:00","Severstal Cherepovets","Lev Prague",2,28,1,36
+"291",38068,"Game # 291. 28 October 2013, Monday, 19:30","Atlant Moscow Region","Dinamo Riga",1,24,1,25
+"292",38069,"Game # 292. 28 October 2013, Monday, 19:30","SKA Saint Petersburg","CSKA Moscow",5,29,2,24
+"293",38070,"Game # 293. 28 October 2013, Monday, 19:30","Spartak Moscow","Metallurg Novokuznetsk",5,29,4,29
+"294",38071,"Game # 294. 28 October 2013, Monday, 19:30","Dynamo Moscow","Torpedo Nizhny Novgorod",2,23,1,29
+"295",38072,"Game # 295. 28 October 2013, Monday, 21:00","Donbass Donetsk","Admiral Vladivostok",2,24,1,21
+"296",38073,"Game # 296. 28 October 2013, Monday, 20:00","Dinamo Minsk","Sibir Novosibirsk Region",2,35,4,32
+"297",38074,"Game # 297. 28 October 2013, Monday, 22:30","Medvescak Zagreb","Amur Khabarovsk",2,42,1,27
+"298",38075,"Game # 298. 29 October 2013, Tuesday, 19:00","Ak Bars Kazan","Vityaz Moscow Region",4,42,4,30
+"299",38076,"Game # 299. 30 October 2013, Wednesday, 16:00","Avangard Omsk Region","Salavat Yulaev Ufa",1,30,1,20
+"300",38077,"Game # 300. 30 October 2013, Wednesday, 17:00","Barys Astana","Neftekhimik Nizhnekamsk",5,27,1,25
+"301",38078,"Game # 301. 30 October 2013, Wednesday, 17:00","Ugra Khanty-Mansiysk","Metallurg Magnitogorsk",2,31,5,29
+"302",38079,"Game # 302. 30 October 2013, Wednesday, 17:00","Avtomobilist Yekaterinburg","Traktor Chelyabinsk",2,21,0,28
+"303",38080,"Game # 303. 30 October 2013, Wednesday, 19:00","Lokomotiv Yaroslavl","Dinamo Riga",1,27,2,17
+"304",38081,"Game # 304. 30 October 2013, Wednesday, 19:00","Severstal Cherepovets","CSKA Moscow",2,27,2,27
+"305",38082,"Game # 305. 30 October 2013, Wednesday, 19:30","Atlant Moscow Region","Slovan Bratislava",0,30,1,24
+"306",38083,"Game # 306. 30 October 2013, Wednesday, 19:30","SKA Saint Petersburg","Lev Prague",5,35,0,30
+"307",38084,"Game # 307. 30 October 2013, Wednesday, 19:30","Spartak Moscow","Sibir Novosibirsk Region",1,22,0,26
+"308",38085,"Game # 308. 30 October 2013, Wednesday, 21:00","Donbass Donetsk","Amur Khabarovsk",5,27,1,37
+"309",38086,"Game # 309. 30 October 2013, Wednesday, 20:00","Dinamo Minsk","Metallurg Novokuznetsk",5,39,2,25
+"310",38087,"Game # 310. 30 October 2013, Wednesday, 20:30","Medvescak Zagreb","Admiral Vladivostok",2,48,2,27
+"311",38088,"Game # 311. 31 October 2013, Thursday, 19:00","Ak Bars Kazan","Dynamo Moscow",3,30,2,31
+"312",38089,"Game # 312. 31 October 2013, Thursday, 19:00","Torpedo Nizhny Novgorod","Vityaz Moscow Region",5,32,0,17
+"313",38090,"Game # 313.  1 November 2013, Friday, 16:00","Avangard Omsk Region","Neftekhimik Nizhnekamsk",4,26,2,25
+"314",38091,"Game # 314.  1 November 2013, Friday, 17:00","Barys Astana","Salavat Yulaev Ufa",3,27,2,29
+"315",38092,"Game # 315.  1 November 2013, Friday, 17:00","Ugra Khanty-Mansiysk","Traktor Chelyabinsk",3,29,4,32
+"316",38093,"Game # 316.  1 November 2013, Friday, 17:00","Avtomobilist Yekaterinburg","Metallurg Magnitogorsk",4,38,4,31
+"317",38094,"Game # 317.  1 November 2013, Friday, 19:30","Lokomotiv Yaroslavl","CSKA Moscow",1,27,3,22
+"318",38095,"Game # 318.  1 November 2013, Friday, 19:00","Severstal Cherepovets","Dinamo Riga",0,40,1,22
+"319",38096,"Game # 319.  1 November 2013, Friday, 19:30","Atlant Moscow Region","Lev Prague",0,16,4,44
+"320",38097,"Game # 320.  1 November 2013, Friday, 19:30","SKA Saint Petersburg","Slovan Bratislava",4,29,2,18
+"321",38098,"Game # 321.  1 November 2013, Friday, 19:30","Spartak Moscow","Amur Khabarovsk",1,22,0,24
+"322",38099,"Game # 322.  1 November 2013, Friday, 21:00","Donbass Donetsk","Sibir Novosibirsk Region",1,36,2,35
+"323",38100,"Game # 323.  1 November 2013, Friday, 20:00","Dinamo Minsk","Admiral Vladivostok",3,27,3,26
+"324",38101,"Game # 324.  1 November 2013, Friday, 22:30","Medvescak Zagreb","Metallurg Novokuznetsk",3,39,3,27
+"325",38102,"Game # 325. 13 November 2013, Wednesday, 13:00","Admiral Vladivostok","Ak Bars Kazan",3,34,2,26
+"326",38103,"Game # 326. 13 November 2013, Wednesday, 12:00","Amur Khabarovsk","Torpedo Nizhny Novgorod",1,38,1,30
+"327",38104,"Game # 327. 13 November 2013, Wednesday, 16:00","Metallurg Novokuznetsk","Vityaz Moscow Region",0,37,2,18
+"328",38105,"Game # 328. 13 November 2013, Wednesday, 16:00","Sibir Novosibirsk Region","Dynamo Moscow",1,35,0,26
+"329",38106,"Game # 329. 13 November 2013, Wednesday, 17:00","Traktor Chelyabinsk","Donbass Donetsk",0,25,1,25
+"330",38107,"Game # 330. 13 November 2013, Wednesday, 17:00","Metallurg Magnitogorsk","Dinamo Minsk",3,29,0,37
+"331",38108,"Game # 331. 13 November 2013, Wednesday, 17:00","Salavat Yulaev Ufa","Spartak Moscow",1,32,2,23
+"332",38109,"Game # 332. 13 November 2013, Wednesday, 19:00","Neftekhimik Nizhnekamsk","Medvescak Zagreb",2,29,2,35
+"333",38110,"Game # 333. 13 November 2013, Wednesday, 19:30","CSKA Moscow","Avangard Omsk Region",3,26,1,28
+"334",38111,"Game # 334. 13 November 2013, Wednesday, 21:30","Dinamo Riga","Barys Astana",2,27,2,30
+"335",38112,"Game # 335. 13 November 2013, Wednesday, 22:00","Slovan Bratislava","Ugra Khanty-Mansiysk",2,46,2,22
+"336",38113,"Game # 336. 13 November 2013, Wednesday, 22:00","Lev Prague","Avtomobilist Yekaterinburg",3,32,2,18
+"337",38114,"Game # 337. 14 November 2013, Thursday, 19:00","Lokomotiv Yaroslavl","SKA Saint Petersburg",2,24,0,27
+"338",38115,"Game # 338. 14 November 2013, Thursday, 19:30","Atlant Moscow Region","Severstal Cherepovets",2,32,2,33
+"339",38116,"Game # 339. 15 November 2013, Friday, 13:00","Admiral Vladivostok","Torpedo Nizhny Novgorod",5,30,0,29
+"340",38117,"Game # 340. 15 November 2013, Friday, 12:00","Amur Khabarovsk","Ak Bars Kazan",6,31,3,36
+"341",38118,"Game # 341. 15 November 2013, Friday, 16:00","Metallurg Novokuznetsk","Dynamo Moscow",3,31,4,38
+"342",38119,"Game # 342. 15 November 2013, Friday, 16:00","Sibir Novosibirsk Region","Vityaz Moscow Region",3,30,1,32
+"343",38120,"Game # 343. 15 November 2013, Friday, 17:00","Traktor Chelyabinsk","Dinamo Minsk",3,27,0,38
+"344",38121,"Game # 344. 15 November 2013, Friday, 17:00","Metallurg Magnitogorsk","Donbass Donetsk",2,30,1,31
+"345",38122,"Game # 345. 15 November 2013, Friday, 17:00","Salavat Yulaev Ufa","Medvescak Zagreb",2,37,3,33
+"346",38123,"Game # 346. 15 November 2013, Friday, 19:00","Neftekhimik Nizhnekamsk","Spartak Moscow",5,31,0,29
+"347",38124,"Game # 347. 15 November 2013, Friday, 19:30","CSKA Moscow","Barys Astana",3,26,0,36
+"348",38125,"Game # 348. 15 November 2013, Friday, 21:30","Dinamo Riga","Avangard Omsk Region",3,17,1,27
+"349",38126,"Game # 349. 15 November 2013, Friday, 22:00","Slovan Bratislava","Avtomobilist Yekaterinburg",3,22,1,37
+"350",38127,"Game # 350. 15 November 2013, Friday, 22:00","Lev Prague","Ugra Khanty-Mansiysk",2,21,1,23
+"351",38128,"Game # 351. 16 November 2013, Saturday, 17:00","Atlant Moscow Region","SKA Saint Petersburg",1,22,2,22
+"352",38129,"Game # 352. 16 November 2013, Saturday, 17:00","Lokomotiv Yaroslavl","Severstal Cherepovets",3,31,1,34
+"353",38130,"Game # 353. 17 November 2013, Sunday, 10:00","Admiral Vladivostok","Dynamo Moscow",3,26,4,35
+"354",38131,"Game # 354. 17 November 2013, Sunday, 10:00","Amur Khabarovsk","Vityaz Moscow Region",4,48,2,25
+"355",38132,"Game # 355. 17 November 2013, Sunday, 14:00","Metallurg Novokuznetsk","Torpedo Nizhny Novgorod",1,30,4,35
+"356",38133,"Game # 356. 17 November 2013, Sunday, 14:00","Sibir Novosibirsk Region","Ak Bars Kazan",0,48,2,21
+"357",38134,"Game # 357. 17 November 2013, Sunday, 15:00","Traktor Chelyabinsk","Spartak Moscow",3,27,2,28
+"358",38135,"Game # 358. 17 November 2013, Sunday, 15:00","Metallurg Magnitogorsk","Medvescak Zagreb",4,33,0,30
+"359",38136,"Game # 359. 17 November 2013, Sunday, 15:00","Salavat Yulaev Ufa","Donbass Donetsk",2,25,2,30
+"360",38137,"Game # 360. 17 November 2013, Sunday, 17:00","Neftekhimik Nizhnekamsk","Dinamo Minsk",5,25,2,29
+"361",38138,"Game # 361. 17 November 2013, Sunday, 17:00","CSKA Moscow","Avtomobilist Yekaterinburg",2,20,1,34
+"362",38139,"Game # 362. 17 November 2013, Sunday, 19:00","Dinamo Riga","Ugra Khanty-Mansiysk",4,31,3,29
+"363",38140,"Game # 363. 17 November 2013, Sunday, 20:00","Slovan Bratislava","Barys Astana",2,28,6,24
+"364",38141,"Game # 364. 17 November 2013, Sunday, 20:00","Lev Prague","Avangard Omsk Region",2,29,2,25
+"365",38142,"Game # 365. 18 November 2013, Monday, 19:30","SKA Saint Petersburg","Lokomotiv Yaroslavl",1,24,2,18
+"366",38143,"Game # 366. 19 November 2013, Tuesday, 13:00","Admiral Vladivostok","Vityaz Moscow Region",0,34,1,31
+"367",38144,"Game # 367. 19 November 2013, Tuesday, 12:00","Amur Khabarovsk","Dynamo Moscow",1,34,4,37
+"368",38145,"Game # 368. 19 November 2013, Tuesday, 16:00","Sibir Novosibirsk Region","Torpedo Nizhny Novgorod",3,31,1,30
+"369",38146,"Game # 369. 19 November 2013, Tuesday, 16:00","Metallurg Novokuznetsk","Ak Bars Kazan",0,40,2,34
+"370",38147,"Game # 370. 19 November 2013, Tuesday, 17:00","Traktor Chelyabinsk","Medvescak Zagreb",5,29,1,29
+"371",38148,"Game # 371. 19 November 2013, Tuesday, 17:00","Metallurg Magnitogorsk","Spartak Moscow",3,17,2,26
+"372",38149,"Game # 372. 19 November 2013, Tuesday, 17:00","Salavat Yulaev Ufa","Dinamo Minsk",5,47,2,33
+"373",38150,"Game # 373. 19 November 2013, Tuesday, 19:00","Neftekhimik Nizhnekamsk","Donbass Donetsk",2,23,0,43
+"374",38151,"Game # 374. 19 November 2013, Tuesday, 19:30","CSKA Moscow","Ugra Khanty-Mansiysk",3,21,4,28
+"375",38152,"Game # 375. 19 November 2013, Tuesday, 21:30","Dinamo Riga","Avtomobilist Yekaterinburg",3,22,1,16
+"376",38153,"Game # 376. 19 November 2013, Tuesday, 22:00","Slovan Bratislava","Avangard Omsk Region",3,26,1,32
+"377",38154,"Game # 377. 19 November 2013, Tuesday, 22:00","Lev Prague","Barys Astana",2,32,3,30
+"378",38155,"Game # 378. 20 November 2013, Wednesday, 19:30","SKA Saint Petersburg","Severstal Cherepovets",2,26,1,26
+"379",38156,"Game # 379. 21 November 2013, Thursday, 19:00","Lokomotiv Yaroslavl","Atlant Moscow Region",2,22,0,36
+"380",38157,"Game # 380. 22 November 2013, Friday, 16:00","Avangard Omsk Region","CSKA Moscow",3,43,5,16
+"381",38158,"Game # 381. 22 November 2013, Friday, 17:00","Barys Astana","Dinamo Riga",4,29,4,19
+"382",38159,"Game # 382. 22 November 2013, Friday, 17:00","Ugra Khanty-Mansiysk","Slovan Bratislava",0,27,0,15
+"383",38160,"Game # 383. 22 November 2013, Friday, 17:00","Avtomobilist Yekaterinburg","Lev Prague",1,29,3,34
+"384",38161,"Game # 384. 22 November 2013, Friday, 19:30","Ak Bars Kazan","Sibir Novosibirsk Region",1,28,1,36
+"385",38162,"Game # 385. 22 November 2013, Friday, 19:00","Torpedo Nizhny Novgorod","Amur Khabarovsk",6,38,2,22
+"386",38163,"Game # 386. 22 November 2013, Friday, 19:30","Dynamo Moscow","Admiral Vladivostok",3,23,2,29
+"387",38164,"Game # 387. 22 November 2013, Friday, 19:30","SKA Saint Petersburg","Traktor Chelyabinsk",3,30,0,29
+"388",38165,"Game # 388. 22 November 2013, Friday, 19:30","Spartak Moscow","Neftekhimik Nizhnekamsk",4,22,2,21
+"389",38166,"Game # 389. 22 November 2013, Friday, 21:00","Donbass Donetsk","Metallurg Novokuznetsk",5,42,1,20
+"390",38167,"Game # 390. 22 November 2013, Friday, 20:00","Dinamo Minsk","Salavat Yulaev Ufa",1,29,4,27
+"391",38168,"Game # 391. 22 November 2013, Friday, 22:30","Medvescak Zagreb","Metallurg Magnitogorsk",2,29,1,19
+"392",38169,"Game # 392. 23 November 2013, Saturday, 17:00","Severstal Cherepovets","Atlant Moscow Region",4,35,0,25
+"393",38170,"Game # 393. 24 November 2013, Sunday, 14:00","Avangard Omsk Region","Dinamo Riga",5,41,2,25
+"394",38171,"Game # 394. 24 November 2013, Sunday, 15:00","Barys Astana","CSKA Moscow",2,29,5,27
+"395",38172,"Game # 395. 24 November 2013, Sunday, 15:00","Ugra Khanty-Mansiysk","Lev Prague",1,32,4,30
+"396",38173,"Game # 396. 24 November 2013, Sunday, 15:00","Avtomobilist Yekaterinburg","Slovan Bratislava",8,28,1,23
+"397",38174,"Game # 397. 24 November 2013, Sunday, 17:30","Ak Bars Kazan","Admiral Vladivostok",5,32,1,19
+"398",38175,"Game # 398. 24 November 2013, Sunday, 17:00","Torpedo Nizhny Novgorod","Metallurg Novokuznetsk",5,29,0,30
+"399",38176,"Game # 399. 24 November 2013, Sunday, 17:30","SKA Saint Petersburg","Neftekhimik Nizhnekamsk",2,32,1,17
+"400",38177,"Game # 400. 24 November 2013, Sunday, 17:00","Vityaz Moscow Region","Sibir Novosibirsk Region",3,24,3,29
+"401",38178,"Game # 401. 24 November 2013, Sunday, 17:00","Dynamo Moscow","Amur Khabarovsk",5,42,4,26
+"402",38179,"Game # 402. 24 November 2013, Sunday, 19:00","Donbass Donetsk","Salavat Yulaev Ufa",4,33,2,31
+"403",38180,"Game # 403. 24 November 2013, Sunday, 18:00","Dinamo Minsk","Metallurg Magnitogorsk",3,21,1,33
+"404",38181,"Game # 404. 24 November 2013, Sunday, 20:30","Medvescak Zagreb","Traktor Chelyabinsk",4,45,4,30
+"405",38182,"Game # 405. 25 November 2013, Monday, 19:30","Atlant Moscow Region","Lokomotiv Yaroslavl",1,40,1,41
+"406",38183,"Game # 406. 26 November 2013, Tuesday, 16:00","Avangard Omsk Region","Lev Prague",2,37,2,23
+"407",38184,"Game # 407. 26 November 2013, Tuesday, 17:00","Barys Astana","Slovan Bratislava",6,27,1,23
+"408",38185,"Game # 408. 26 November 2013, Tuesday, 17:00","Ugra Khanty-Mansiysk","Dinamo Riga",1,37,2,26
+"409",38186,"Game # 409. 26 November 2013, Tuesday, 17:00","Avtomobilist Yekaterinburg","CSKA Moscow",0,28,2,25
+"410",38187,"Game # 410. 26 November 2013, Tuesday, 19:30","Ak Bars Kazan","Amur Khabarovsk",1,30,2,35
+"411",38188,"Game # 411. 26 November 2013, Tuesday, 19:00","Torpedo Nizhny Novgorod","Sibir Novosibirsk Region",3,21,1,22
+"412",38189,"Game # 412. 26 November 2013, Tuesday, 19:00","Vityaz Moscow Region","Admiral Vladivostok",1,21,3,24
+"413",38190,"Game # 413. 26 November 2013, Tuesday, 19:30","Dynamo Moscow","Metallurg Novokuznetsk",3,34,4,26
+"414",38191,"Game # 414. 26 November 2013, Tuesday, 19:30","Spartak Moscow","Traktor Chelyabinsk",3,35,5,24
+"415",38192,"Game # 415. 26 November 2013, Tuesday, 21:00","Donbass Donetsk","Metallurg Magnitogorsk",3,34,2,19
+"416",38193,"Game # 416. 26 November 2013, Tuesday, 20:00","Dinamo Minsk","Neftekhimik Nizhnekamsk",4,26,3,26
+"417",38194,"Game # 417. 26 November 2013, Tuesday, 22:30","Medvescak Zagreb","Salavat Yulaev Ufa",0,37,1,24
+"418",38195,"Game # 418. 27 November 2013, Wednesday, 19:00","Severstal Cherepovets","Lokomotiv Yaroslavl",1,30,2,31
+"419",38196,"Game # 419. 28 November 2013, Thursday, 16:00","Avangard Omsk Region","Slovan Bratislava",4,35,2,17
+"420",38197,"Game # 420. 28 November 2013, Thursday, 17:00","Barys Astana","Lev Prague",2,21,3,23
+"421",38198,"Game # 421. 28 November 2013, Thursday, 17:00","Ugra Khanty-Mansiysk","CSKA Moscow",3,31,4,32
+"422",38199,"Game # 422. 28 November 2013, Thursday, 17:00","Avtomobilist Yekaterinburg","Dinamo Riga",3,30,1,25
+"423",38200,"Game # 423. 28 November 2013, Thursday, 19:00","Ak Bars Kazan","Metallurg Novokuznetsk",4,42,4,30
+"424",38201,"Game # 424. 28 November 2013, Thursday, 19:00","Torpedo Nizhny Novgorod","Admiral Vladivostok",2,31,1,15
+"425",38202,"Game # 425. 28 November 2013, Thursday, 19:00","Vityaz Moscow Region","Amur Khabarovsk",1,30,1,30
+"426",38203,"Game # 426. 28 November 2013, Thursday, 19:30","Spartak Moscow","Salavat Yulaev Ufa",2,36,3,30
+"427",38204,"Game # 427. 28 November 2013, Thursday, 21:00","Donbass Donetsk","Neftekhimik Nizhnekamsk",1,32,1,25
+"428",38205,"Game # 428. 28 November 2013, Thursday, 20:00","Dinamo Minsk","Traktor Chelyabinsk",4,33,2,32
+"429",38206,"Game # 429. 28 November 2013, Thursday, 22:30","Medvescak Zagreb","Sibir Novosibirsk Region",6,41,1,25
+"430",38207,"Game # 430. 29 November 2013, Friday, 19:00","SKA Saint Petersburg","Atlant Moscow Region",4,27,1,29
+"431",38208,"Game # 431. 30 November 2013, Saturday, 17:00","Severstal Cherepovets","Dynamo Moscow",2,34,2,25
+"432",38209,"Game # 432.  1 December 2013, Sunday, 15:00","Traktor Chelyabinsk","Avangard Omsk Region",1,27,2,32
+"433",38210,"Game # 433.  1 December 2013, Sunday, 15:00","Metallurg Magnitogorsk","Barys Astana",3,32,3,31
+"434",38211,"Game # 434.  1 December 2013, Sunday, 15:00","Salavat Yulaev Ufa","Avtomobilist Yekaterinburg",1,31,3,26
+"435",38212,"Game # 435.  1 December 2013, Sunday, 17:00","Neftekhimik Nizhnekamsk","Ugra Khanty-Mansiysk",4,31,0,34
+"436",38213,"Game # 436.  1 December 2013, Sunday, 19:00","Dinamo Riga","Atlant Moscow Region",1,26,2,30
+"437",38214,"Game # 437.  2 December 2013, Monday, 13:00","Admiral Vladivostok","Spartak Moscow",1,30,2,30
+"438",38215,"Game # 438.  2 December 2013, Monday, 12:00","Amur Khabarovsk","Donbass Donetsk",0,29,4,34
+"439",38216,"Game # 439.  2 December 2013, Monday, 16:00","Metallurg Novokuznetsk","Medvescak Zagreb",1,33,5,25
+"440",38217,"Game # 440.  2 December 2013, Monday, 16:00","Sibir Novosibirsk Region","Dinamo Minsk",3,36,1,30
+"441",38218,"Game # 441.  2 December 2013, Monday, 19:00","Torpedo Nizhny Novgorod","Dynamo Moscow",1,20,3,26
+"442",38219,"Game # 442.  2 December 2013, Monday, 19:30","CSKA Moscow","Lokomotiv Yaroslavl",1,26,3,31
+"443",38220,"Game # 443.  2 December 2013, Monday, 22:00","Slovan Bratislava","Severstal Cherepovets",3,31,2,23
+"444",38221,"Game # 444.  2 December 2013, Monday, 22:00","Lev Prague","SKA Saint Petersburg",3,37,3,33
+"445",38222,"Game # 445.  3 December 2013, Tuesday, 17:00","Traktor Chelyabinsk","Barys Astana",0,24,4,28
+"446",38223,"Game # 446.  3 December 2013, Tuesday, 17:00","Metallurg Magnitogorsk","Avangard Omsk Region",2,21,2,41
+"447",38224,"Game # 447.  3 December 2013, Tuesday, 17:00","Salavat Yulaev Ufa","Ugra Khanty-Mansiysk",3,27,2,26
+"448",38225,"Game # 448.  3 December 2013, Tuesday, 19:00","Neftekhimik Nizhnekamsk","Avtomobilist Yekaterinburg",2,29,3,28
+"449",38226,"Game # 449.  3 December 2013, Tuesday, 19:30","Vityaz Moscow Region","Ak Bars Kazan",2,32,3,28
+"450",38227,"Game # 450.  4 December 2013, Wednesday, 13:00","Admiral Vladivostok","Donbass Donetsk",4,31,1,34
+"451",38228,"Game # 451.  4 December 2013, Wednesday, 12:00","Amur Khabarovsk","Spartak Moscow",3,36,3,38
+"452",38229,"Game # 452.  4 December 2013, Wednesday, 16:00","Metallurg Novokuznetsk","Dinamo Minsk",3,30,2,39
+"453",38230,"Game # 453.  4 December 2013, Wednesday, 16:00","Sibir Novosibirsk Region","Medvescak Zagreb",0,42,2,28
+"454",38231,"Game # 454.  4 December 2013, Wednesday, 19:30","Atlant Moscow Region","CSKA Moscow",2,30,0,29
+"455",38232,"Game # 455.  4 December 2013, Wednesday, 21:30","Dinamo Riga","Lokomotiv Yaroslavl",4,26,1,27
+"456",38233,"Game # 456.  4 December 2013, Wednesday, 22:00","Slovan Bratislava","SKA Saint Petersburg",2,27,2,38
+"457",38234,"Game # 457.  4 December 2013, Wednesday, 22:00","Lev Prague","Severstal Cherepovets",3,33,1,20
+"458",38235,"Game # 458.  5 December 2013, Thursday, 17:00","Traktor Chelyabinsk","Avtomobilist Yekaterinburg",2,23,2,23
+"459",38236,"Game # 459.  5 December 2013, Thursday, 17:00","Metallurg Magnitogorsk","Ugra Khanty-Mansiysk",5,31,4,30
+"460",38237,"Game # 460.  5 December 2013, Thursday, 17:00","Salavat Yulaev Ufa","Avangard Omsk Region",3,21,2,38
+"461",38238,"Game # 461.  5 December 2013, Thursday, 19:00","Neftekhimik Nizhnekamsk","Barys Astana",0,33,1,25
+"462",38239,"Game # 462.  5 December 2013, Thursday, 19:30","Dynamo Moscow","Ak Bars Kazan",3,41,0,24
+"463",38240,"Game # 463.  6 December 2013, Friday, 13:00","Admiral Vladivostok","Medvescak Zagreb",0,29,2,25
+"464",38241,"Game # 464.  6 December 2013, Friday, 12:00","Amur Khabarovsk","Dinamo Minsk",2,39,2,40
+"465",38242,"Game # 465.  6 December 2013, Friday, 16:00","Metallurg Novokuznetsk","Donbass Donetsk",0,14,2,37
+"466",38243,"Game # 466.  6 December 2013, Friday, 16:00","Sibir Novosibirsk Region","Spartak Moscow",1,38,2,24
+"467",38244,"Game # 467.  6 December 2013, Friday, 19:00","CSKA Moscow","SKA Saint Petersburg",2,20,0,28
+"468",38245,"Game # 468.  6 December 2013, Friday, 21:30","Dinamo Riga","Severstal Cherepovets",1,22,2,19
+"469",38246,"Game # 469.  9 December 2013, Monday, 22:00","Slovan Bratislava","Atlant Moscow Region",1,39,1,19
+"470",38247,"Game # 470.  6 December 2013, Friday, 22:00","Lev Prague","Lokomotiv Yaroslavl",0,31,1,15
+"471",38248,"Game # 471.  7 December 2013, Saturday, 15:00","Traktor Chelyabinsk","Ugra Khanty-Mansiysk",0,26,2,19
+"472",38249,"Game # 472.  7 December 2013, Saturday, 15:00","Metallurg Magnitogorsk","Avtomobilist Yekaterinburg",3,28,3,44
+"473",38250,"Game # 473.  7 December 2013, Saturday, 15:00","Salavat Yulaev Ufa","Barys Astana",6,42,3,39
+"474",38251,"Game # 474.  7 December 2013, Saturday, 17:00","Neftekhimik Nizhnekamsk","Avangard Omsk Region",0,22,4,51
+"475",38252,"Game # 475.  9 December 2013, Monday, 19:00","Ak Bars Kazan","Torpedo Nizhny Novgorod",2,22,1,35
+"476",38253,"Game # 476.  7 December 2013, Saturday, 17:30","Dynamo Moscow","Vityaz Moscow Region",2,28,2,28
+"477",38254,"Game # 477.  8 December 2013, Sunday, 10:00","Admiral Vladivostok","Dinamo Minsk",2,28,2,32
+"478",38255,"Game # 478.  8 December 2013, Sunday, 10:00","Amur Khabarovsk","Medvescak Zagreb",3,44,3,40
+"479",38256,"Game # 479.  8 December 2013, Sunday, 14:00","Metallurg Novokuznetsk","Spartak Moscow",2,37,1,35
+"480",38257,"Game # 480.  8 December 2013, Sunday, 14:00","Sibir Novosibirsk Region","Donbass Donetsk",2,25,3,32
+"481",38258,"Game # 481.  8 December 2013, Sunday, 17:00","CSKA Moscow","Severstal Cherepovets",3,28,2,24
+"482",38259,"Game # 482.  8 December 2013, Sunday, 19:00","Dinamo Riga","SKA Saint Petersburg",6,29,4,39
+"483",38260,"Game # 483.  8 December 2013, Sunday, 20:00","Slovan Bratislava","Lokomotiv Yaroslavl",5,32,3,23
+"484",38261,"Game # 484.  8 December 2013, Sunday, 16:00","Lev Prague","Atlant Moscow Region",1,29,3,19
+"485",38262,"Game # 485.  5 December 2013, Thursday, 19:00","Vityaz Moscow Region","Torpedo Nizhny Novgorod",2,23,3,35
+"486",38263,"Game # 486. 11 December 2013, Wednesday, 16:00","Avangard Omsk Region","Sibir Novosibirsk Region",3,42,2,33
+"487",38264,"Game # 487. 11 December 2013, Wednesday, 17:00","Barys Astana","Metallurg Novokuznetsk",5,21,3,27
+"488",38265,"Game # 488. 11 December 2013, Wednesday, 17:00","Ugra Khanty-Mansiysk","Admiral Vladivostok",2,37,3,32
+"489",38266,"Game # 489. 11 December 2013, Wednesday, 17:00","Avtomobilist Yekaterinburg","Amur Khabarovsk",5,31,1,30
+"490",38267,"Game # 490. 11 December 2013, Wednesday, 19:00","Lokomotiv Yaroslavl","Salavat Yulaev Ufa",4,24,2,38
+"491",38268,"Game # 491. 11 December 2013, Wednesday, 19:00","Severstal Cherepovets","Neftekhimik Nizhnekamsk",1,29,0,19
+"492",38269,"Game # 492. 11 December 2013, Wednesday, 19:30","Atlant Moscow Region","Traktor Chelyabinsk",2,40,3,14
+"493",38270,"Game # 493. 11 December 2013, Wednesday, 19:30","SKA Saint Petersburg","Metallurg Magnitogorsk",0,32,2,17
+"494",38271,"Game # 494. 11 December 2013, Wednesday, 19:30","Spartak Moscow","Torpedo Nizhny Novgorod",1,19,2,32
+"495",38272,"Game # 495. 11 December 2013, Wednesday, 19:30","CSKA Moscow","Lev Prague",0,19,3,27
+"496",38273,"Game # 496. 11 December 2013, Wednesday, 21:00","Donbass Donetsk","Dynamo Moscow",2,25,3,34
+"497",38274,"Game # 497. 11 December 2013, Wednesday, 20:00","Dinamo Minsk","Vityaz Moscow Region",0,31,2,24
+"498",38275,"Game # 498. 11 December 2013, Wednesday, 20:30","Medvescak Zagreb","Ak Bars Kazan",6,33,5,33
+"499",38276,"Game # 499. 13 December 2013, Friday, 16:00","Avangard Omsk Region","Metallurg Novokuznetsk",3,33,2,29
+"500",38277,"Game # 500. 13 December 2013, Friday, 17:00","Barys Astana","Sibir Novosibirsk Region",3,30,4,35
+"501",38278,"Game # 501. 13 December 2013, Friday, 17:00","Ugra Khanty-Mansiysk","Amur Khabarovsk",2,41,3,27
+"502",38279,"Game # 502. 13 December 2013, Friday, 17:00","Avtomobilist Yekaterinburg","Admiral Vladivostok",5,44,2,27
+"503",38280,"Game # 503. 13 December 2013, Friday, 19:00","Lokomotiv Yaroslavl","Neftekhimik Nizhnekamsk",2,26,4,32
+"504",38281,"Game # 504. 13 December 2013, Friday, 19:00","Severstal Cherepovets","Salavat Yulaev Ufa",5,30,3,33
+"505",38282,"Game # 505. 13 December 2013, Friday, 19:30","Atlant Moscow Region","Metallurg Magnitogorsk",0,41,1,32
+"506",38283,"Game # 506. 13 December 2013, Friday, 19:30","Spartak Moscow","Ak Bars Kazan",1,31,2,26
+"507",38284,"Game # 507. 13 December 2013, Friday, 19:00","CSKA Moscow","Slovan Bratislava",4,38,5,19
+"508",38285,"Game # 508. 13 December 2013, Friday, 21:00","Donbass Donetsk","Vityaz Moscow Region",5,35,3,18
+"509",38286,"Game # 509. 13 December 2013, Friday, 20:00","Dinamo Minsk","Dynamo Moscow",2,19,4,43
+"510",38287,"Game # 510. 13 December 2013, Friday, 21:30","Dinamo Riga","Traktor Chelyabinsk",2,27,0,27
+"511",38288,"Game # 511. 13 December 2013, Friday, 22:30","Medvescak Zagreb","Torpedo Nizhny Novgorod",0,43,0,29
+"512",38289,"Game # 512. 15 December 2013, Sunday, 19:00","Donbass Donetsk","Dinamo Minsk",3,32,1,30
+"513",38290,"Game # 513. 15 December 2013, Sunday, 19:00","Lev Prague","Slovan Bratislava",7,43,0,14
+"514",38291,"Game # 514. 25 December 2013, Wednesday, 19:00","Severstal Cherepovets","SKA Saint Petersburg",1,28,2,36
+"515",38292,"Game # 515. 25 December 2013, Wednesday, 19:00","Torpedo Nizhny Novgorod","Ak Bars Kazan",4,28,6,25
+"516",38293,"Game # 516. 25 December 2013, Wednesday, 19:30","Atlant Moscow Region","Neftekhimik Nizhnekamsk",4,46,1,18
+"517",38294,"Game # 517. 25 December 2013, Wednesday, 19:30","Spartak Moscow","Metallurg Magnitogorsk",1,23,6,33
+"518",38295,"Game # 518. 25 December 2013, Wednesday, 19:00","CSKA Moscow","Vityaz Moscow Region",5,29,2,30
+"519",38296,"Game # 519. 25 December 2013, Wednesday, 21:30","Donbass Donetsk","Traktor Chelyabinsk",2,35,2,17
+"520",38297,"Game # 520. 26 December 2013, Thursday, 16:00","Avangard Omsk Region","Amur Khabarovsk",3,47,2,19
+"521",38298,"Game # 521. 26 December 2013, Thursday, 17:00","Barys Astana","Admiral Vladivostok",6,25,3,33
+"522",38299,"Game # 522. 26 December 2013, Thursday, 17:00","Ugra Khanty-Mansiysk","Metallurg Novokuznetsk",1,25,6,32
+"523",38300,"Game # 523. 26 December 2013, Thursday, 17:00","Avtomobilist Yekaterinburg","Sibir Novosibirsk Region",0,18,0,31
+"524",38301,"Game # 524. 26 December 2013, Thursday, 19:30","Atlant Moscow Region","Salavat Yulaev Ufa",2,33,5,29
+"525",38302,"Game # 525. 27 December 2013, Friday, 19:00","Lokomotiv Yaroslavl","Traktor Chelyabinsk",0,31,0,27
+"526",38303,"Game # 526. 27 December 2013, Friday, 19:00","Severstal Cherepovets","Metallurg Magnitogorsk",0,29,4,34
+"527",38304,"Game # 527. 27 December 2013, Friday, 19:00","Vityaz Moscow Region","Spartak Moscow",3,27,3,40
+"528",38305,"Game # 528. 27 December 2013, Friday, 21:30","Donbass Donetsk","Torpedo Nizhny Novgorod",2,49,2,21
+"529",38306,"Game # 529. 27 December 2013, Friday, 20:00","Dinamo Minsk","Ak Bars Kazan",1,29,2,33
+"530",38307,"Game # 530. 27 December 2013, Friday, 22:30","Slovan Bratislava","Neftekhimik Nizhnekamsk",4,45,2,23
+"531",38308,"Game # 531. 27 December 2013, Friday, 20:30","Medvescak Zagreb","Dynamo Moscow",0,34,5,31
+"532",38309,"Game # 532. 28 December 2013, Saturday, 14:00","Avangard Omsk Region","Admiral Vladivostok",4,44,1,34
+"533",38310,"Game # 533. 28 December 2013, Saturday, 15:30","Barys Astana","Amur Khabarovsk",8,33,2,35
+"534",38311,"Game # 534. 28 December 2013, Saturday, 13:00","Ugra Khanty-Mansiysk","Sibir Novosibirsk Region",2,26,1,47
+"535",38312,"Game # 535. 28 December 2013, Saturday, 15:00","Avtomobilist Yekaterinburg","Metallurg Novokuznetsk",2,27,0,23
+"536",38313,"Game # 536. 28 December 2013, Saturday, 17:00","SKA Saint Petersburg","Salavat Yulaev Ufa",1,33,2,37
+"537",38314,"Game # 537. 28 December 2013, Saturday, 19:00","Dinamo Riga","Lev Prague",1,20,1,31
+"538",38315,"Game # 538. 29 December 2013, Sunday, 17:00","Lokomotiv Yaroslavl","Metallurg Magnitogorsk",3,20,1,20
+"539",38316,"Game # 539. 29 December 2013, Sunday, 17:00","Severstal Cherepovets","Traktor Chelyabinsk",4,34,6,24
+"540",38317,"Game # 540. 29 December 2013, Sunday, 17:00","Spartak Moscow","Dynamo Moscow",0,18,6,29
+"541",38318,"Game # 541. 29 December 2013, Sunday, 19:30","Donbass Donetsk","Ak Bars Kazan",1,34,2,24
+"542",38319,"Game # 542. 29 December 2013, Sunday, 18:00","Dinamo Minsk","Torpedo Nizhny Novgorod",4,32,0,25
+"543",38320,"Game # 543. 29 December 2013, Sunday, 19:00","Dinamo Riga","Slovan Bratislava",1,39,3,20
+"544",38321,"Game # 544. 29 December 2013, Sunday, 20:30","Medvescak Zagreb","Vityaz Moscow Region",4,24,2,28
+"545",38322,"Game # 545.  3 January 2014, Friday, 10:00","Admiral Vladivostok","SKA Saint Petersburg",4,34,4,36
+"546",38323,"Game # 546.  3 January 2014, Friday, 10:00","Amur Khabarovsk","Lokomotiv Yaroslavl",2,30,1,45
+"547",38324,"Game # 547.  3 January 2014, Friday, 14:00","Metallurg Novokuznetsk","Atlant Moscow Region",2,32,5,29
+"548",38325,"Game # 548.  3 January 2014, Friday, 14:00","Sibir Novosibirsk Region","Severstal Cherepovets",2,47,3,20
+"549",38326,"Game # 549.  3 January 2014, Friday, 15:00","Traktor Chelyabinsk","Lev Prague",2,20,2,33
+"550",38327,"Game # 550.  3 January 2014, Friday, 15:00","Metallurg Magnitogorsk","Slovan Bratislava",6,35,2,28
+"551",38328,"Game # 551.  3 January 2014, Friday, 15:00","Salavat Yulaev Ufa","Dinamo Riga",4,30,3,20
+"552",38329,"Game # 552.  3 January 2014, Friday, 17:00","Neftekhimik Nizhnekamsk","CSKA Moscow",1,21,4,37
+"553",38330,"Game # 553.  3 January 2014, Friday, 17:30","Ak Bars Kazan","Ugra Khanty-Mansiysk",4,43,2,16
+"554",38331,"Game # 554.  3 January 2014, Friday, 17:00","Torpedo Nizhny Novgorod","Avtomobilist Yekaterinburg",3,30,3,23
+"555",38332,"Game # 555.  3 January 2014, Friday, 17:00","Vityaz Moscow Region","Barys Astana",1,18,1,40
+"556",38333,"Game # 556.  3 January 2014, Friday, 17:30","Dynamo Moscow","Avangard Omsk Region",6,27,4,26
+"557",38334,"Game # 557.  4 January 2014, Saturday, 17:00","Spartak Moscow","Dinamo Minsk",1,37,2,19
+"558",38335,"Game # 558.  4 January 2014, Saturday, 20:30","Medvescak Zagreb","Donbass Donetsk",1,28,3,33
+"559",38336,"Game # 559.  5 January 2014, Sunday, 10:00","Admiral Vladivostok","Lokomotiv Yaroslavl",3,28,0,26
+"560",38337,"Game # 560.  5 January 2014, Sunday, 10:00","Amur Khabarovsk","SKA Saint Petersburg",1,30,6,42
+"561",38338,"Game # 561.  5 January 2014, Sunday, 14:00","Metallurg Novokuznetsk","Severstal Cherepovets",1,40,1,28
+"562",38339,"Game # 562.  5 January 2014, Sunday, 14:00","Sibir Novosibirsk Region","Atlant Moscow Region",3,51,1,31
+"563",38340,"Game # 563.  5 January 2014, Sunday, 15:00","Traktor Chelyabinsk","Slovan Bratislava",2,26,1,22
+"564",38341,"Game # 564.  5 January 2014, Sunday, 15:00","Metallurg Magnitogorsk","Lev Prague",4,33,2,42
+"565",38342,"Game # 565.  5 January 2014, Sunday, 15:00","Salavat Yulaev Ufa","CSKA Moscow",5,28,2,23
+"566",38343,"Game # 566.  5 January 2014, Sunday, 17:00","Neftekhimik Nizhnekamsk","Dinamo Riga",1,29,2,19
+"567",38344,"Game # 567.  5 January 2014, Sunday, 17:00","Ak Bars Kazan","Avtomobilist Yekaterinburg",1,31,3,19
+"568",38345,"Game # 568.  5 January 2014, Sunday, 17:00","Torpedo Nizhny Novgorod","Ugra Khanty-Mansiysk",4,29,5,29
+"569",38346,"Game # 569.  5 January 2014, Sunday, 17:00","Vityaz Moscow Region","Avangard Omsk Region",2,28,2,47
+"570",38347,"Game # 570.  5 January 2014, Sunday, 17:30","Dynamo Moscow","Barys Astana",3,35,2,36
+"571",38348,"Game # 571.  6 January 2014, Monday, 21:00","Donbass Donetsk","Spartak Moscow",3,36,2,17
+"572",38349,"Game # 572.  6 January 2014, Monday, 22:30","Medvescak Zagreb","Dinamo Minsk",4,40,1,25
+"573",38350,"Game # 573.  7 January 2014, Tuesday, 10:00","Admiral Vladivostok","Severstal Cherepovets",4,29,1,27
+"574",38351,"Game # 574.  7 January 2014, Tuesday, 10:00","Amur Khabarovsk","Atlant Moscow Region",2,35,2,36
+"575",38352,"Game # 575.  7 January 2014, Tuesday, 14:00","Metallurg Novokuznetsk","SKA Saint Petersburg",3,37,2,27
+"576",38353,"Game # 576.  7 January 2014, Tuesday, 14:00","Sibir Novosibirsk Region","Lokomotiv Yaroslavl",3,45,1,24
+"577",38354,"Game # 577.  7 January 2014, Tuesday, 15:00","Traktor Chelyabinsk","CSKA Moscow",3,21,1,30
+"578",38355,"Game # 578.  7 January 2014, Tuesday, 15:00","Metallurg Magnitogorsk","Dinamo Riga",6,41,2,35
+"579",38356,"Game # 579.  7 January 2014, Tuesday, 15:00","Salavat Yulaev Ufa","Lev Prague",1,25,5,29
+"580",38357,"Game # 580.  7 January 2014, Tuesday, 17:00","Neftekhimik Nizhnekamsk","Slovan Bratislava",4,40,3,29
+"581",38358,"Game # 581.  7 January 2014, Tuesday, 17:30","Ak Bars Kazan","Barys Astana",1,41,2,37
+"582",38359,"Game # 582.  7 January 2014, Tuesday, 17:30","Torpedo Nizhny Novgorod","Avangard Omsk Region",5,25,3,35
+"583",38360,"Game # 583.  7 January 2014, Tuesday, 17:00","Vityaz Moscow Region","Ugra Khanty-Mansiysk",3,41,3,24
+"584",38361,"Game # 584.  7 January 2014, Tuesday, 17:00","Dynamo Moscow","Avtomobilist Yekaterinburg",3,31,2,24
+"585",38362,"Game # 585.  8 January 2014, Wednesday, 17:00","Spartak Moscow","Medvescak Zagreb",1,36,3,29
+"586",38363,"Game # 586.  9 January 2014, Thursday, 13:00","Admiral Vladivostok","Atlant Moscow Region",2,32,3,24
+"587",38364,"Game # 587.  9 January 2014, Thursday, 12:00","Amur Khabarovsk","Severstal Cherepovets",1,37,3,29
+"588",38365,"Game # 588.  9 January 2014, Thursday, 16:00","Metallurg Novokuznetsk","Lokomotiv Yaroslavl",1,28,2,32
+"589",38366,"Game # 589.  9 January 2014, Thursday, 16:00","Sibir Novosibirsk Region","SKA Saint Petersburg",4,30,0,33
+"590",38367,"Game # 590.  9 January 2014, Thursday, 17:00","Traktor Chelyabinsk","Dinamo Riga",2,24,5,22
+"591",38368,"Game # 591.  9 January 2014, Thursday, 17:00","Metallurg Magnitogorsk","CSKA Moscow",3,31,1,33
+"592",38369,"Game # 592.  9 January 2014, Thursday, 17:00","Salavat Yulaev Ufa","Slovan Bratislava",4,43,2,17
+"593",38370,"Game # 593.  9 January 2014, Thursday, 19:00","Neftekhimik Nizhnekamsk","Lev Prague",1,28,4,33
+"594",38371,"Game # 594. 15 September 2013, Sunday, 17:30","Ak Bars Kazan","Avangard Omsk Region",6,33,0,27
+"595",38372,"Game # 595.  9 January 2014, Thursday, 19:00","Torpedo Nizhny Novgorod","Barys Astana",7,33,2,27
+"596",38373,"Game # 596.  9 January 2014, Thursday, 19:00","Vityaz Moscow Region","Avtomobilist Yekaterinburg",1,28,3,29
+"597",38374,"Game # 597.  9 January 2014, Thursday, 19:30","Dynamo Moscow","Ugra Khanty-Mansiysk",2,30,2,42
+"598",38375,"Game # 598. 13 January 2014, Monday, 19:00","Lokomotiv Yaroslavl","Vityaz Moscow Region",1,36,0,12
+"599",38376,"Game # 599. 13 January 2014, Monday, 19:30","Atlant Moscow Region","Torpedo Nizhny Novgorod",4,24,5,35
+"600",38377,"Game # 600. 13 January 2014, Monday, 19:30","SKA Saint Petersburg","Ak Bars Kazan",3,31,1,31
+"601",38378,"Game # 601. 13 January 2014, Monday, 19:00","CSKA Moscow","Amur Khabarovsk",3,39,0,27
+"602",38379,"Game # 602. 13 January 2014, Monday, 21:30","Dinamo Riga","Admiral Vladivostok",2,32,5,21
+"603",38380,"Game # 603. 13 January 2014, Monday, 22:00","Slovan Bratislava","Sibir Novosibirsk Region",1,23,1,34
+"604",38381,"Game # 604. 13 January 2014, Monday, 22:00","Lev Prague","Metallurg Novokuznetsk",2,49,2,24
+"605",38382,"Game # 605. 14 January 2014, Tuesday, 16:00","Avangard Omsk Region","Medvescak Zagreb",3,39,3,32
+"606",38383,"Game # 606. 14 January 2014, Tuesday, 17:00","Barys Astana","Spartak Moscow",4,30,2,26
+"607",38384,"Game # 607. 14 January 2014, Tuesday, 17:00","Ugra Khanty-Mansiysk","Dinamo Minsk",6,47,0,22
+"608",38385,"Game # 608. 14 January 2014, Tuesday, 17:00","Metallurg Magnitogorsk","Salavat Yulaev Ufa",3,36,3,43
+"609",38386,"Game # 609. 14 January 2014, Tuesday, 19:00","Neftekhimik Nizhnekamsk","Traktor Chelyabinsk",3,39,1,15
+"610",38387,"Game # 610. 15 January 2014, Wednesday, 19:00","Lokomotiv Yaroslavl","Torpedo Nizhny Novgorod",1,26,4,24
+"611",38388,"Game # 611. 15 January 2014, Wednesday, 19:00","Severstal Cherepovets","Ak Bars Kazan",1,22,2,34
+"612",38389,"Game # 612. 15 January 2014, Wednesday, 19:00","Vityaz Moscow Region","Atlant Moscow Region",1,27,2,32
+"613",38390,"Game # 613. 15 January 2014, Wednesday, 19:30","SKA Saint Petersburg","Dynamo Moscow",6,33,3,27
+"614",38391,"Game # 614. 15 January 2014, Wednesday, 19:00","CSKA Moscow","Sibir Novosibirsk Region",2,24,2,37
+"615",38392,"Game # 615. 15 January 2014, Wednesday, 21:30","Dinamo Riga","Metallurg Novokuznetsk",4,26,3,22
+"616",38393,"Game # 616. 15 January 2014, Wednesday, 22:00","Slovan Bratislava","Amur Khabarovsk",3,32,2,27
+"617",38394,"Game # 617. 15 January 2014, Wednesday, 22:00","Lev Prague","Admiral Vladivostok",4,31,1,17
+"618",38395,"Game # 618. 16 January 2014, Thursday, 16:00","Avangard Omsk Region","Spartak Moscow",4,53,1,22
+"619",38396,"Game # 619. 16 January 2014, Thursday, 17:00","Barys Astana","Medvescak Zagreb",1,29,3,27
+"620",38397,"Game # 620. 16 January 2014, Thursday, 17:00","Ugra Khanty-Mansiysk","Donbass Donetsk",3,28,1,23
+"621",38398,"Game # 621. 16 January 2014, Thursday, 17:00","Avtomobilist Yekaterinburg","Dinamo Minsk",2,34,0,20
+"622",38399,"Game # 622. 16 January 2014, Thursday, 17:00","Traktor Chelyabinsk","Salavat Yulaev Ufa",5,21,3,25
+"623",38400,"Game # 623. 16 January 2014, Thursday, 19:00","Neftekhimik Nizhnekamsk","Metallurg Magnitogorsk",3,34,5,29
+"624",38401,"Game # 624. 17 January 2014, Friday, 19:30","Lokomotiv Yaroslavl","Ak Bars Kazan",4,40,0,29
+"625",38402,"Game # 625. 17 January 2014, Friday, 19:00","Severstal Cherepovets","Torpedo Nizhny Novgorod",4,37,5,28
+"626",38403,"Game # 626. 17 January 2014, Friday, 19:30","Atlant Moscow Region","Dynamo Moscow",1,35,3,33
+"627",38404,"Game # 627. 17 January 2014, Friday, 19:30","SKA Saint Petersburg","Vityaz Moscow Region",4,33,1,30
+"628",38405,"Game # 628. 17 January 2014, Friday, 19:00","CSKA Moscow","Metallurg Novokuznetsk",4,39,1,17
+"629",38406,"Game # 629. 17 January 2014, Friday, 21:30","Dinamo Riga","Sibir Novosibirsk Region",2,11,3,38
+"630",38407,"Game # 630. 17 January 2014, Friday, 22:00","Slovan Bratislava","Admiral Vladivostok",1,36,6,29
+"631",38408,"Game # 631. 17 January 2014, Friday, 22:00","Lev Prague","Amur Khabarovsk",3,37,0,17
+"632",38409,"Game # 632. 18 January 2014, Saturday, 14:00","Avangard Omsk Region","Dinamo Minsk",7,26,2,21
+"633",38410,"Game # 633. 18 January 2014, Saturday, 15:00","Barys Astana","Donbass Donetsk",2,31,6,25
+"634",38411,"Game # 634. 18 January 2014, Saturday, 15:00","Ugra Khanty-Mansiysk","Medvescak Zagreb",1,43,4,26
+"635",38412,"Game # 635. 18 January 2014, Saturday, 15:00","Avtomobilist Yekaterinburg","Spartak Moscow",2,32,0,21
+"636",38413,"Game # 636. 18 January 2014, Saturday, 15:00","Traktor Chelyabinsk","Neftekhimik Nizhnekamsk",3,40,5,21
+"637",38414,"Game # 637. 18 January 2014, Saturday, 15:00","Salavat Yulaev Ufa","Metallurg Magnitogorsk",2,34,5,25
+"638",38415,"Game # 638. 19 January 2014, Sunday, 17:00","Atlant Moscow Region","Ak Bars Kazan",1,23,2,26
+"639",38416,"Game # 639. 19 January 2014, Sunday, 17:00","Lokomotiv Yaroslavl","Dynamo Moscow",3,27,4,29
+"640",38417,"Game # 640. 19 January 2014, Sunday, 17:00","Severstal Cherepovets","Vityaz Moscow Region",7,36,3,20
+"641",38418,"Game # 641. 19 January 2014, Sunday, 17:00","SKA Saint Petersburg","Torpedo Nizhny Novgorod",4,29,4,38
+"642",38419,"Game # 642. 19 January 2014, Sunday, 15:00","CSKA Moscow","Admiral Vladivostok",2,27,1,30
+"643",38420,"Game # 643. 19 January 2014, Sunday, 19:00","Dinamo Riga","Amur Khabarovsk",4,41,1,16
+"644",38421,"Game # 644. 19 January 2014, Sunday, 20:00","Slovan Bratislava","Metallurg Novokuznetsk",2,30,3,33
+"645",38422,"Game # 645. 19 January 2014, Sunday, 20:00","Lev Prague","Sibir Novosibirsk Region",3,30,1,26
+"646",38423,"Game # 646. 20 January 2014, Monday, 16:00","Avangard Omsk Region","Donbass Donetsk",0,30,2,26
+"647",38424,"Game # 647. 20 January 2014, Monday, 17:00","Barys Astana","Dinamo Minsk",1,33,2,23
+"648",38425,"Game # 648. 20 January 2014, Monday, 17:00","Ugra Khanty-Mansiysk","Spartak Moscow",5,48,3,22
+"649",38426,"Game # 649. 20 January 2014, Monday, 17:00","Avtomobilist Yekaterinburg","Medvescak Zagreb",2,37,0,32
+"650",38427,"Game # 650. 22 January 2014, Wednesday, 19:00","Ak Bars Kazan","Slovan Bratislava",1,22,1,25
+"651",38428,"Game # 651. 22 January 2014, Wednesday, 19:00","Torpedo Nizhny Novgorod","Lev Prague",5,31,2,38
+"652",38429,"Game # 652. 22 January 2014, Wednesday, 19:00","Vityaz Moscow Region","Dinamo Riga",6,27,2,31
+"653",38430,"Game # 653. 22 January 2014, Wednesday, 19:30","Dynamo Moscow","CSKA Moscow",1,29,1,27
+"654",38431,"Game # 654. 23 January 2014, Thursday, 13:00","Admiral Vladivostok","Neftekhimik Nizhnekamsk",0,36,1,21
+"655",38432,"Game # 655. 23 January 2014, Thursday, 12:00","Amur Khabarovsk","Salavat Yulaev Ufa",0,24,1,35
+"656",38433,"Game # 656. 23 January 2014, Thursday, 16:00","Metallurg Novokuznetsk","Metallurg Magnitogorsk",3,27,4,22
+"657",38434,"Game # 657. 23 January 2014, Thursday, 16:00","Sibir Novosibirsk Region","Traktor Chelyabinsk",3,37,2,21
+"658",38435,"Game # 658. 23 January 2014, Thursday, 19:30","Spartak Moscow","Lokomotiv Yaroslavl",1,19,3,23
+"659",38436,"Game # 659. 23 January 2014, Thursday, 21:00","Donbass Donetsk","SKA Saint Petersburg",4,30,2,31
+"660",38437,"Game # 660. 23 January 2014, Thursday, 20:00","Dinamo Minsk","Severstal Cherepovets",1,31,1,22
+"661",38438,"Game # 661. 23 January 2014, Thursday, 20:30","Medvescak Zagreb","Atlant Moscow Region",4,35,2,26
+"662",38439,"Game # 662. 24 January 2014, Friday, 17:00","Ugra Khanty-Mansiysk","Avangard Omsk Region",2,17,1,44
+"663",38440,"Game # 663. 24 January 2014, Friday, 17:00","Avtomobilist Yekaterinburg","Barys Astana",6,38,2,36
+"664",38441,"Game # 664. 24 January 2014, Friday, 19:30","Ak Bars Kazan","Lev Prague",2,22,2,36
+"665",38442,"Game # 665. 24 January 2014, Friday, 19:00","Torpedo Nizhny Novgorod","Slovan Bratislava",2,17,3,18
+"666",38443,"Game # 666. 24 January 2014, Friday, 19:30","Dynamo Moscow","Dinamo Riga",2,28,4,16
+"667",38444,"Game # 667. 25 January 2014, Saturday, 10:00","Admiral Vladivostok","Salavat Yulaev Ufa",3,28,2,35
+"668",38445,"Game # 668. 25 January 2014, Saturday, 10:00","Amur Khabarovsk","Neftekhimik Nizhnekamsk",4,43,4,36
+"669",38446,"Game # 669. 25 January 2014, Saturday, 14:00","Metallurg Novokuznetsk","Traktor Chelyabinsk",2,37,2,22
+"670",38447,"Game # 670. 25 January 2014, Saturday, 14:00","Sibir Novosibirsk Region","Metallurg Magnitogorsk",2,30,1,23
+"671",38448,"Game # 671. 25 January 2014, Saturday, 17:00","Spartak Moscow","SKA Saint Petersburg",1,24,5,30
+"672",38449,"Game # 672. 25 January 2014, Saturday, 19:00","Donbass Donetsk","Severstal Cherepovets",2,39,3,29
+"673",38450,"Game # 673. 25 January 2014, Saturday, 18:00","Dinamo Minsk","Atlant Moscow Region",1,24,7,27
+"674",38451,"Game # 674. 25 January 2014, Saturday, 20:30","Medvescak Zagreb","Lokomotiv Yaroslavl",1,29,0,42
+"675",38452,"Game # 675. 26 January 2014, Sunday, 14:00","Avangard Omsk Region","Barys Astana",4,36,5,29
+"676",38453,"Game # 676. 26 January 2014, Sunday, 15:00","Avtomobilist Yekaterinburg","Ugra Khanty-Mansiysk",2,20,2,40
+"677",38454,"Game # 677. 26 January 2014, Sunday, 17:00","Ak Bars Kazan","Dinamo Riga",2,18,2,32
+"678",38455,"Game # 678. 26 January 2014, Sunday, 17:00","Torpedo Nizhny Novgorod","CSKA Moscow",3,17,1,28
+"679",38456,"Game # 679. 26 January 2014, Sunday, 17:00","Vityaz Moscow Region","Slovan Bratislava",1,26,1,20
+"680",38457,"Game # 680. 26 January 2014, Sunday, 17:00","Dynamo Moscow","Lev Prague",2,24,1,32
+"681",38458,"Game # 681. 27 January 2014, Monday, 13:00","Admiral Vladivostok","Metallurg Magnitogorsk",2,27,1,22
+"682",38459,"Game # 682. 27 January 2014, Monday, 12:00","Amur Khabarovsk","Traktor Chelyabinsk",3,28,4,31
+"683",38460,"Game # 683. 27 January 2014, Monday, 16:00","Metallurg Novokuznetsk","Neftekhimik Nizhnekamsk",3,42,2,28
+"684",38461,"Game # 684. 27 January 2014, Monday, 16:00","Sibir Novosibirsk Region","Salavat Yulaev Ufa",3,28,3,20
+"685",38462,"Game # 685. 27 January 2014, Monday, 19:30","Spartak Moscow","Atlant Moscow Region",3,31,3,30
+"686",38463,"Game # 686. 27 January 2014, Monday, 21:00","Donbass Donetsk","Lokomotiv Yaroslavl",3,27,0,19
+"687",38464,"Game # 687. 27 January 2014, Monday, 20:00","Dinamo Minsk","SKA Saint Petersburg",2,39,3,32
+"688",38465,"Game # 688. 27 January 2014, Monday, 22:30","Medvescak Zagreb","Severstal Cherepovets",1,30,1,25
+"689",38466,"Game # 689.  3 November 2013, Sunday, 14:00","Avangard Omsk Region","Avtomobilist Yekaterinburg",1,47,2,17
+"690",38467,"Game # 690. 28 January 2014, Tuesday, 17:00","Barys Astana","Ugra Khanty-Mansiysk",4,28,3,32
+"691",38468,"Game # 691.  3 November 2013, Sunday, 17:00","Ak Bars Kazan","CSKA Moscow",4,36,1,37
+"692",38469,"Game # 692. 28 January 2014, Tuesday, 19:00","Torpedo Nizhny Novgorod","Dinamo Riga",0,28,0,20
+"693",38470,"Game # 693. 28 January 2014, Tuesday, 19:00","Vityaz Moscow Region","Lev Prague",3,18,3,39
+"694",38471,"Game # 694. 28 January 2014, Tuesday, 19:30","Dynamo Moscow","Slovan Bratislava",2,33,3,24
+"695",38472,"Game # 695. 29 January 2014, Wednesday, 13:00","Admiral Vladivostok","Traktor Chelyabinsk",3,30,3,26
+"696",38473,"Game # 696. 29 January 2014, Wednesday, 12:00","Amur Khabarovsk","Metallurg Magnitogorsk",1,41,6,35
+"697",38474,"Game # 697. 29 January 2014, Wednesday, 16:00","Metallurg Novokuznetsk","Salavat Yulaev Ufa",3,35,1,28
+"698",38475,"Game # 698. 29 January 2014, Wednesday, 16:00","Sibir Novosibirsk Region","Neftekhimik Nizhnekamsk",4,34,0,23
+"699",38476,"Game # 699. 29 January 2014, Wednesday, 19:30","Spartak Moscow","Severstal Cherepovets",0,20,7,33
+"700",38477,"Game # 700. 29 January 2014, Wednesday, 21:00","Donbass Donetsk","Atlant Moscow Region",2,34,2,27
+"701",38478,"Game # 701. 29 January 2014, Wednesday, 20:00","Dinamo Minsk","Lokomotiv Yaroslavl",3,23,1,24
+"702",38479,"Game # 702. 24 September 2013, Tuesday, 21:30","Medvescak Zagreb","SKA Saint Petersburg",3,30,3,39
+"703",38480,"Game # 703. 26 February 2014, Wednesday, 17:00","Traktor Chelyabinsk","Dynamo Moscow",3,20,5,29
+"704",38481,"Game # 704. 26 February 2014, Wednesday, 17:00","Metallurg Magnitogorsk","Vityaz Moscow Region",0,34,2,29
+"705",38482,"Game # 705. 26 February 2014, Wednesday, 17:00","Salavat Yulaev Ufa","Torpedo Nizhny Novgorod",2,34,1,26
+"706",38483,"Game # 706.  6 September 2013, Friday, 19:00","Neftekhimik Nizhnekamsk","Ak Bars Kazan",3,39,1,27
+"707",38484,"Game # 707. 26 February 2014, Wednesday, 19:00","Lokomotiv Yaroslavl","Avtomobilist Yekaterinburg",5,27,3,26
+"708",38485,"Game # 708. 26 February 2014, Wednesday, 19:00","Severstal Cherepovets","Ugra Khanty-Mansiysk",4,36,1,24
+"709",38486,"Game # 709. 26 February 2014, Wednesday, 19:30","Atlant Moscow Region","Barys Astana",5,27,1,25
+"710",38487,"Game # 710. 26 February 2014, Wednesday, 19:30","SKA Saint Petersburg","Avangard Omsk Region",4,27,5,25
+"711",38488,"Game # 711. 26 February 2014, Wednesday, 19:30","CSKA Moscow","Spartak Moscow",2,31,1,23
+"712",38489,"Game # 712. 26 February 2014, Wednesday, 22:00","Dinamo Riga","Medvescak Zagreb",5,20,1,28
+"713",38490,"Game # 713. 26 February 2014, Wednesday, 22:00","Slovan Bratislava","Dinamo Minsk",3,33,3,28
+"714",38491,"Game # 714. 26 February 2014, Wednesday, 22:00","Lev Prague","Donbass Donetsk",4,23,1,26
+"715",38492,"Game # 715. 27 February 2014, Thursday, 13:00","Admiral Vladivostok","Metallurg Novokuznetsk",3,34,1,32
+"716",38493,"Game # 716. 27 February 2014, Thursday, 12:00","Amur Khabarovsk","Sibir Novosibirsk Region",1,28,1,40
+"717",38494,"Game # 717. 28 February 2014, Friday, 17:00","Traktor Chelyabinsk","Vityaz Moscow Region",3,25,2,23
+"718",38495,"Game # 718. 28 February 2014, Friday, 17:00","Metallurg Magnitogorsk","Dynamo Moscow",0,16,0,41
+"719",38496,"Game # 719. 28 February 2014, Friday, 17:00","Salavat Yulaev Ufa","Ak Bars Kazan",1,28,0,23
+"720",38497,"Game # 720. 28 February 2014, Friday, 19:00","Neftekhimik Nizhnekamsk","Torpedo Nizhny Novgorod",3,34,5,35
+"721",38498,"Game # 721. 28 February 2014, Friday, 19:00","Lokomotiv Yaroslavl","Ugra Khanty-Mansiysk",6,40,2,19
+"722",38499,"Game # 722. 28 February 2014, Friday, 19:00","Severstal Cherepovets","Avtomobilist Yekaterinburg",2,26,1,28
+"723",38500,"Game # 723. 28 February 2014, Friday, 19:30","Atlant Moscow Region","Avangard Omsk Region",2,33,0,34
+"724",38501,"Game # 724. 28 February 2014, Friday, 19:30","SKA Saint Petersburg","Barys Astana",3,30,2,36
+"725",38502,"Game # 725. 28 February 2014, Friday, 19:00","CSKA Moscow","Medvescak Zagreb",1,37,3,20
+"726",38503,"Game # 726. 28 February 2014, Friday, 21:30","Dinamo Riga","Spartak Moscow",3,28,2,25
+"727",38504,"Game # 727. 28 February 2014, Friday, 22:00","Slovan Bratislava","Donbass Donetsk",1,37,2,27
+"728",38505,"Game # 728. 28 February 2014, Friday, 22:00","Lev Prague","Dinamo Minsk",3,34,1,24
+"729",38506,"Game # 729.  1 March 2014, Saturday, 10:00","Admiral Vladivostok","Sibir Novosibirsk Region",3,29,1,21
+"730",38507,"Game # 730.  1 March 2014, Saturday, 10:00","Amur Khabarovsk","Metallurg Novokuznetsk",2,34,7,44
+"731",38508,"Game # 731.  2 March 2014, Sunday, 15:00","Traktor Chelyabinsk","Torpedo Nizhny Novgorod",0,27,1,20
+"732",38509,"Game # 732.  2 March 2014, Sunday, 15:00","Metallurg Magnitogorsk","Ak Bars Kazan",1,23,0,33
+"733",38510,"Game # 733.  2 March 2014, Sunday, 15:00","Salavat Yulaev Ufa","Dynamo Moscow",1,33,3,29
+"734",38511,"Game # 734.  2 March 2014, Sunday, 17:00","Neftekhimik Nizhnekamsk","Vityaz Moscow Region",5,29,1,27
+"735",38512,"Game # 735.  2 March 2014, Sunday, 17:00","Atlant Moscow Region","Ugra Khanty-Mansiysk",5,30,1,39
+"736",38513,"Game # 736.  2 March 2014, Sunday, 17:30","Lokomotiv Yaroslavl","Avangard Omsk Region",4,25,1,33
+"737",38514,"Game # 737.  2 March 2014, Sunday, 17:00","Severstal Cherepovets","Barys Astana",2,36,1,26
+"738",38515,"Game # 738.  2 March 2014, Sunday, 17:00","SKA Saint Petersburg","Avtomobilist Yekaterinburg",4,29,0,29
+"739",38516,"Game # 739.  2 March 2014, Sunday, 17:30","CSKA Moscow","Donbass Donetsk",1,30,1,37
+"740",38517,"Game # 740.  2 March 2014, Sunday, 18:00","Dinamo Minsk","Dinamo Riga",5,27,2,19
+"741",38518,"Game # 741.  2 March 2014, Sunday, 20:00","Slovan Bratislava","Spartak Moscow",0,33,3,24
+"742",38519,"Game # 742.  2 March 2014, Sunday, 20:00","Lev Prague","Medvescak Zagreb",2,47,1,23
+"743",38520,"Game # 743.  4 March 2014, Tuesday, 13:00","Admiral Vladivostok","Amur Khabarovsk",4,22,1,39
+"744",38521,"Game # 744.  4 March 2014, Tuesday, 16:00","Sibir Novosibirsk Region","Metallurg Novokuznetsk",6,46,5,23
+"745",38522,"Game # 745.  4 March 2014, Tuesday, 17:00","Traktor Chelyabinsk","Ak Bars Kazan",2,27,2,25
+"746",38523,"Game # 746.  4 March 2014, Tuesday, 17:00","Metallurg Magnitogorsk","Torpedo Nizhny Novgorod",4,31,2,32
+"747",38524,"Game # 747.  4 March 2014, Tuesday, 17:00","Salavat Yulaev Ufa","Vityaz Moscow Region",3,28,2,25
+"748",38525,"Game # 748.  4 March 2014, Tuesday, 19:00","Neftekhimik Nizhnekamsk","Dynamo Moscow",2,29,4,29
+"749",38526,"Game # 749.  4 March 2014, Tuesday, 19:30","Lokomotiv Yaroslavl","Barys Astana",4,30,1,37
+"750",38527,"Game # 750.  4 March 2014, Tuesday, 19:30","Severstal Cherepovets","Avangard Omsk Region",1,32,2,27
+"751",38528,"Game # 751.  4 March 2014, Tuesday, 19:30","Atlant Moscow Region","Avtomobilist Yekaterinburg",2,31,3,32
+"752",38529,"Game # 752.  4 March 2014, Tuesday, 19:30","SKA Saint Petersburg","Ugra Khanty-Mansiysk",1,52,2,19
+"753",38530,"Game # 753.  4 March 2014, Tuesday, 19:30","CSKA Moscow","Dinamo Minsk",3,26,0,18
+"754",38531,"Game # 754.  4 March 2014, Tuesday, 21:30","Dinamo Riga","Donbass Donetsk",0,26,1,21
+"755",38532,"Game # 755.  4 March 2014, Tuesday, 22:00","Slovan Bratislava","Medvescak Zagreb",2,25,3,32
+"756",38533,"Game # 756.  4 March 2014, Tuesday, 22:00","Lev Prague","Spartak Moscow",2,27,2,26
